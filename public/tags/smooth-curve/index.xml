@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>smooth curve on Roberta&#39;s Personal Web Page</title>
+    <link>http://www.robertasirovich.it/tags/smooth-curve/</link>
+    <description>Recent content in smooth curve on Roberta&#39;s Personal Web Page</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 01 Oct 2019 00:00:00 +0000</lastBuildDate><atom:link href="http://www.robertasirovich.it/tags/smooth-curve/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Smooth curves specialize to extremal curves</title>
+      <link>http://www.robertasirovich.it/publications/hls/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.robertasirovich.it/publications/hls/</guid>
+      <description>Abstract. Let $H_{d,g}$ denote the Hilbert scheme of locally Cohen-Macaulay curves of degree $d$ and genus $g$ in projective three space. We show that, given a smooth irreducible curve $C$ of degree $d$ and genus $g$, there is a rational curve $\{[C_t]: t \in \mathbb{A}^1\}$ in $H_{d,g}$ such that $C_t$ for $t \neq 0$ is projectively equivalent to $C$, while the special fibre $C_0$ is an extremal curve. It follows that smooth curves lie in a unique connected component of $H_{d,g}$.</description>
+    </item>
+    
+    <item>
+      <title>The maximum genus problem for locally Cohen-Macaulay space curves</title>
+      <link>http://www.robertasirovich.it/publications/bls/</link>
+      <pubDate>Tue, 01 Oct 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.robertasirovich.it/publications/bls/</guid>
+      <description>Abstract. Let $P_{\text{max}}(d,s)$ denote the maximum arithmetic genus of a locally Cohen-Macaulay curve of degree $d$ in $\mathbb{P}^3$ that is not contained in a surface of degree $&amp;lt; s$. A bound $P(d, s)$ for $P_{\text{max}}(d,s)$ has been proven by the first author in characteristic zero and then generalized in any characteristic by the third author. In this paper, we construct a large family $\mathcal{C}$ of primitive multiple lines and we conjecture that the generic element of $\mathcal{C}$ has good cohomological properties.</description>
+    </item>
+    
+  </channel>
+</rss>

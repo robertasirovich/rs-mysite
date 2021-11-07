@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>locally Cohen–Macaulay curve on Roberta&#39;s Personal Web Page</title>
+    <link>http://www.robertasirovich.it/tags/locally-cohenmacaulay-curve/</link>
+    <description>Recent content in locally Cohen–Macaulay curve on Roberta&#39;s Personal Web Page</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 01 Jan 2013 00:00:00 +0000</lastBuildDate><atom:link href="http://www.robertasirovich.it/tags/locally-cohenmacaulay-curve/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The Hilbert schemes of locally Cohen-Macaulay curves in $\scriptsize \mathbb{P}^3$ may after all be connected</title>
+      <link>http://www.robertasirovich.it/publications/ls/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.robertasirovich.it/publications/ls/</guid>
+      <description>Abstract. Progress on the problem whether the Hilbert schemes of locally Cohen–Macaulay curves in $\mathbb{P}^3$ are connected has been hampered by the lack of an answer to a question raised by Robin Hartshorne in (Commun. Algebra 28:6059–6077, 2000) and more recently in (American Institute of Mathematics, Workshop components of Hilbert schemes, problem list, 2010, http://aimpl.org/hilbertschemes): does there exist a flat irreducible family of curves whose general member is a union of $d \geqslant 4$ disjoint lines on a smooth quadric surface and whose special member is a locally Cohen–Macaulay curve in a double plane?</description>
+    </item>
+    
+  </channel>
+</rss>

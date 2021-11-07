@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>moduli space on Roberta&#39;s Personal Web Page</title>
+    <link>http://www.robertasirovich.it/tags/moduli-space/</link>
+    <description>Recent content in moduli space on Roberta&#39;s Personal Web Page</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0000</lastBuildDate><atom:link href="http://www.robertasirovich.it/tags/moduli-space/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>A computational approach to the ample cone of moduli spaces of curves</title>
+      <link>http://www.robertasirovich.it/publications/fgl/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.robertasirovich.it/publications/fgl/</guid>
+      <description>Abstract. We present an alternate proof, much quicker and more straightforward than the original one, of the celebrated F-conjecture on the ample cone of the moduli space $\overline{M}_{0,n}$ of stable rational curves with $n$ marked points in the case $n = 7$.
+ Ancillary Material  Macaulay2 package M07.m2. Macaulay2 script proof-M-0-5.m2 with proof of the F-conjecture for $n = 5$. Macaulay2 script proof-M-0-6.m2 with proof of the F-conjecture for $n = 6$.</description>
+    </item>
+    
+  </channel>
+</rss>

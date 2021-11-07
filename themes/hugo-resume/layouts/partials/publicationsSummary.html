@@ -1,0 +1,22 @@
+
+<div class="resume-item d-flex flex-column flex-md-row mb-3">
+  <div class="publication-content mr-auto">
+  	{{ if eq .Params.pubtype "published" }}
+        <h4 class="mb-0"> <!--{{ .Params.pubtype }} - --> {{ .Params.author }}. <a style="font-weight: 500" href="{{ .Permalink }}">{{ .Params.title }}</a>, <em>{{ .Params.journal }}</em>, <strong>{{ .Params.volume }}</strong>{{ with .Params.number }}({{ . }}){{ end }}:{{ .Params.pages }}, {{ .Params.year }}. </h4>  
+    {{ else if eq .Params.pubtype "accepted" }}
+        <h4 class="mb-0"> <span class="subsubheading">[ACCEPTED]</span> {{ .Params.author }}. <a style="font-weight: 500" href="{{ .Permalink }}">{{ .Params.title }}</a>, <em>{{ .Params.journal }}</em>, {{ .Params.year }}. </h4> 
+    {{ else if eq .Params.pubtype "submitted" }}
+        <h4 class="mb-0"> <span class="subsubheading">[PREPRINT]</span> {{ .Params.author }}. <a style="font-weight: 500" href="{{ .Permalink }}">{{ .Params.title }}</a>, under review. </h4> 
+    {{ else if eq .Params.pubtype "in preparation" }}
+        <h4 class="mb-0"> <span class="subsubheading">[COMING SOON]</span> {{ .Params.author }}. <a style="font-weight: 500" href="{{ .Permalink }}">{{ .Params.title }}</a>, in preparation. </h4>  
+    {{ else if eq .Params.pubtype "proceeding" }}
+      	<h4 class="mb-0"> {{ .Params.author }}. <a style="font-weight: 500" href="{{ .Permalink }}">{{ .Params.title }}</a>, <em>{{ .Params.journal }}</em>, {{ .Params.year }}. </h4>  
+    {{ end }} 
+   <!--  <div>{{ .Params.description | safeHTML }}</div>
+    <p>{{ partial "techtags" . }}</p> -->
+  </div>
+  <!-- <div class="resume-date text-md-right">
+    <span class="text-primary">{{ .Params.date | dateFormat "January 2006" }}</span>
+    <img src="{{ .Params.image }}" style="max-width:250px;padding:5px;"/>
+  </div> -->
+</div>

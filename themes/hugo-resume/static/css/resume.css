@@ -1,0 +1,276 @@
+/*
+COLORI
+Senape # deb036
+Bordeaux #75000b
+Grigio #868e96
+Grigio scuro #343a40
+Colore Robi #008080
+Grigio sfondo icone #495057
+*/
+
+body {
+  font-family: 'Open Sans', serif;
+  padding-top: 54px;
+  color: #868e96;
+}
+
+@media (min-width: 992px) {
+  body {
+    padding-top: 0;
+    padding-left: 17rem;
+  }
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: 'Saira Extra Condensed', serif;
+  font-weight: 700;
+  color: #343a40;
+}
+
+
+h1, h2{
+  text-transform: uppercase;
+}
+
+h1 {
+  font-size: 6rem;
+  line-height: 5.5rem;
+}
+
+h2 {
+  font-size: 3.5rem;
+}
+
+h3 {
+    text-transform: uppercase;
+    font-weight: 500;
+    font-family: 'Saira Extra Condensed', serif;
+    font-size: 1.35rem;
+    color: #868e96;
+}
+h4 {
+    font-weight: 400;
+    font-family: 'Saira Extra Condensed', serif;
+    font-size: 1.5rem;
+    color: #868e96;
+}
+
+code {
+  color: inherit;
+}
+
+code.has-jax {
+    font: inherit;
+    font-size: 100%;
+    background: inherit;
+    border: inherit;
+    color: inherit;
+}
+
+.subheading {
+  text-transform: uppercase;
+  font-weight: 500;
+  font-family: 'Saira Extra Condensed', serif;
+  font-size: 1.35rem;
+  color: #008080;
+}
+
+.subsubheading {
+  font-weight: 500;
+  font-family: 'Saira Extra Condensed', serif;
+  font-size: 1rem;
+  color: #868e96;
+}
+
+.address {
+    font-weight: 500;
+    font-family: 'Saira Extra Condensed', serif;
+    font-size: 1.35rem;
+}
+
+.summarySection a {
+  color: inherit;
+} 
+
+.summarySection a:hover {
+  color: #824027;
+} 
+
+.aa {
+  font-size: 90%;
+  text-transform: uppercase;
+  color: #495057;
+}
+
+/* Colore di sfondo delle icone di about*/
+.list-social-icons a {
+  color: #495057;
+}
+
+.list-social-icons a:hover {
+  color: #008080;
+}
+
+.list-social-icons a .fa-lg {
+  font-size: 1.75rem;
+}
+
+.list-icons {
+  font-size: 3rem;
+}
+
+.list-icons .list-inline-item i:hover {
+  color: #008080;
+}
+
+#sideNav .navbar-nav .nav-item .nav-link {
+  font-weight: 600;
+  text-transform: uppercase;
+}
+
+@media (min-width: 992px) {
+  #sideNav {
+    text-align: center;
+    position: fixed;
+    top: 0;
+    left: 0;
+    display: flex;
+    flex-direction: column;
+    width: 17rem;
+    height: 100vh;
+  }
+  #sideNav .navbar-brand {
+    display: flex;
+    margin: auto auto 0;
+    padding: 0.5rem;
+  }
+  #sideNav .navbar-brand .img-profile {
+    max-width: 10rem;
+    max-height: 10rem;
+    border: 0.5rem solid rgba(255, 255, 255, 0.2);
+  }
+  #sideNav .navbar-collapse {
+    display: flex;
+    align-items: flex-start;
+    flex-grow: 0;
+    width: 100%;
+    margin-bottom: auto;
+  }
+  #sideNav .navbar-collapse .navbar-nav {
+    flex-direction: column;
+    width: 100%;
+  }
+  #sideNav .navbar-collapse .navbar-nav .nav-item {
+    display: block;
+  }
+  #sideNav .navbar-collapse .navbar-nav .nav-item .nav-link {
+    display: block;
+  }
+}
+
+ #circle {
+      width: 2.75rem;
+      height: 2.75rem;  
+      border-radius: 100%;
+      background: #495057;
+}
+
+ #circle:hover {
+      width: 2.75rem;
+      height: 2.75rem;  
+      border-radius: 100%;
+      background: #824027;
+}
+#circle img {
+  margin: auto;
+  display: block;
+  object-fit: contain;
+  height: 100%;
+  width: 100%;
+}
+
+.tooltip-inner {
+    max-width: 350px;
+    /* If max-width does not work, try using width instead */
+}
+
+ #circlePub {
+      transform: translateY(0.25rem);
+      width: 1.5rem;
+      height: 1.5rem;  
+      border-radius: 100%;
+      background: #868e96;
+}
+
+ #circlePub:hover {
+      width: 1.5rem;
+      height: 1.5rem;  
+      border-radius: 100%;
+      background: #824027;
+}
+#circlePub img {
+  margin: auto;
+  display: block;
+  object-fit: contain;
+  height: 100%;
+  width: 100%;
+}
+
+section.resume-section {
+  border-bottom: 1px solid #dee2e6;
+  padding-top: 5rem !important;
+  padding-bottom: 5rem !important;
+}
+
+section.resume-section .resume-item .resume-date {
+  min-width: none;
+}
+
+@media (min-width: 768px) {
+  section.resume-section {
+    min-height: 100vh;
+  }
+  section.resume-section .resume-item .resume-date {
+    min-width: 18rem;
+  }
+}
+
+@media (min-width: 992px) {
+  section.resume-section {
+    padding-top: 3rem !important;
+    padding-bottom: 3rem !important;
+  }
+}
+
+.bg-primary {
+  background-color: #008080 !important;
+}
+
+/*285157  -   0D4B64 */
+
+.text-primary {
+  color: #008080 !important;
+}
+
+.text-secondary {
+  color: #008080 !important;
+  font-family: 'Saira Extra Condensed', serif;
+  font-size: 1.25rem;
+}
+
+a {
+  color: #008080;
+}
+
+a:hover, a:focus, a:active {
+  color: #824027;
+}
+
+img {
+  max-width:80%;
+}

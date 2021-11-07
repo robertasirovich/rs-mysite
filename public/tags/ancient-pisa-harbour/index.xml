@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ancient Pisa harbour on Roberta&#39;s Personal Web Page</title>
+    <link>http://www.robertasirovich.it/tags/ancient-pisa-harbour/</link>
+    <description>Recent content in ancient Pisa harbour on Roberta&#39;s Personal Web Page</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 01 Jan 2016 00:00:00 +0000</lastBuildDate><atom:link href="http://www.robertasirovich.it/tags/ancient-pisa-harbour/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Gaussian curves for visualizing chronological patterns of ceramic finds and residuality</title>
+      <link>http://www.robertasirovich.it/publications/fl/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.robertasirovich.it/publications/fl/</guid>
+      <description>Abstract. This paper describes a particular statistical approach to chronological data from assemblages of archaeological finds (namely pottery) using Gaussian curves: the method enables us to obtain a graphic representation of chronological patterns that avoids an excessive flattening of data, adding an extra dimension to the usual linear temporal concepts. This enables us to arrive at more likely absolute dating and also visualize residuality. The method has been built during the study of a stratigraphic context from the Site of Ancient Ships of Pisa - San Rossore, Italy, and applied to its pottery.</description>
+    </item>
+    
+  </channel>
+</rss>

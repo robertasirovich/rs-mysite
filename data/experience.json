@@ -1,0 +1,58 @@
+[
+    {
+        "role":"Associate professor",
+        "showIT": true,
+        "roleIT": "professore associato",
+        "university":"Mathematics Department, Politecnico di Milano",
+        "range":"January 2021 - present"
+    },
+    {
+        "role":"Tenured assistant professor",
+        "showIT": true,
+        "roleIT": "ricercatore RTD-B",
+        "university":"Mathematics Department, Politecnico di Milano",
+        "range":"January 2018 - December 2020"
+    },
+    {
+        "role":"Assistant professor",
+        "showIT": true,
+        "roleIT": "ricercatore RTD-A",
+        "university":"Mathematics Department, Università degli Studi di Torino",
+        "range":"September 2017 - December 2017"
+    },
+    {
+        "role":"INdAM postdoctoral fellow",
+        "showIT": true,
+        "roleIT": "assegnista di ricerca",
+        "university":"Mathematics Department, Università degli Studi di Torino",
+        "range":"December 2016 - August 2017"
+    },
+    {
+        "role":"Research collaborator",
+        "showIT": true,
+        "roleIT": "borsista di ricerca",
+        "university":"FIRB 2012 project \"Differential Geometry and Geometric Function Theory\"",
+        "range":"August 2016 - November 2016"
+    },
+    {
+        "role":"Postdoctoral fellow",
+        "showIT": true,
+        "roleIT": "assegnista di ricerca",
+        "university":"Mathematics Department, Università degli Studi di Trento",
+        "range":"November 2014 - July 2016"
+    },
+    {
+        "role":"Postdoctoral fellow",
+        "showIT": true,
+        "roleIT": "assegnista di ricerca",
+        "university":"Mathematics Department, Università degli Studi di Torino",
+        "range":"March 2014 - October 2014"
+    },
+    {
+        "role":"Postdoctoral fellow",
+        "showIT": true,
+        "roleIT": "assegnista di ricerca",
+        "university":"Mathematics Department, Università degli Studi di Torino",
+        "range":"January 2013 - December 2013"
+    }
+]

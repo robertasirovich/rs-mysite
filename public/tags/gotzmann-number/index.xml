@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Gotzmann number on Roberta&#39;s Personal Web Page</title>
+    <link>http://www.robertasirovich.it/tags/gotzmann-number/</link>
+    <description>Recent content in Gotzmann number on Roberta&#39;s Personal Web Page</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 02 Oct 2019 00:00:00 +0000</lastBuildDate><atom:link href="http://www.robertasirovich.it/tags/gotzmann-number/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Segments and Hilbert schemes of points</title>
+      <link>http://www.robertasirovich.it/publications/clmr/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.robertasirovich.it/publications/clmr/</guid>
+      <description>Abstract. Using results obtained from the study of homogeneous ideals sharing the same initial ideal with respect to some term order, we prove the singularity of the point corresponding to a segment ideal with respect to the revlex term order in the Hilbert scheme of points in $\mathbb{P}^n$. In this context, we look inside properties of several types of &amp;ldquo;segment&amp;rdquo; ideals that we define and compare. This study led us to focus our attention also to connections between the shape of generators of Borel ideals and the related Hilbert polynomial, providing an algorithm for computing all saturated Borel ideals with the given Hilbert polynomial.</description>
+    </item>
+    
+    <item>
+      <title>Strongly stable ideals and Hilbert polynomials</title>
+      <link>http://www.robertasirovich.it/publications/al/</link>
+      <pubDate>Wed, 02 Oct 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.robertasirovich.it/publications/al/</guid>
+      <description>Abstract. The StronglyStableIdeals.m2 package for Macaulay2 provides a method to compute all saturated strongly stable ideals in a given polynomial ring with a fixed Hilbert polynomial. A description of the main method and auxiliary tools is given.
+ Ancillary Material  Macaulay2 package StronglyStableIdeals.m2.  </description>
+    </item>
+    
+  </channel>
+</rss>

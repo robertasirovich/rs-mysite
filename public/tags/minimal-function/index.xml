@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>minimal function on Roberta&#39;s Personal Web Page</title>
+    <link>http://www.robertasirovich.it/tags/minimal-function/</link>
+    <description>Recent content in minimal function on Roberta&#39;s Personal Web Page</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 01 Jan 2016 00:00:00 +0000</lastBuildDate><atom:link href="http://www.robertasirovich.it/tags/minimal-function/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Minimal Castelnuovo-Mumford regularity for a given Hilbert polynomial</title>
+      <link>http://www.robertasirovich.it/publications/clmr2/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.robertasirovich.it/publications/clmr2/</guid>
+      <description>Abstract. Let $K$ be an algebraically closed field of null characteristic and $p(z)$ a Hilbert polynomial. We look for the minimal Castelnuovo-Mumford regularity $m_{p(z)}$ of closed subschemes of projective spaces over $K$ with Hilbert polynomial $p(z)$. Experimental evidences led us to consider the idea that $m_{p(z)}$ could be achieved by schemes having a suitable minimal Hilbert function. We give a constructive proof of this fact. Moreover, we are able to compute the minimal Castelnuovo-Mumford regularity $m_{p(z)}^{\varrho}$ of schemes with Hilbert polynomial $p(z)$ and given regularity $\varrho$ of the Hilbert function, and also the minimal Castelnuovo-Mumford regularity $m_u$ of schemes with Hilbert function $u$.</description>
+    </item>
+    
+  </channel>
+</rss>

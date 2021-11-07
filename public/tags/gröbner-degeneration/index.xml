@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Gröbner degeneration on Roberta&#39;s Personal Web Page</title>
+    <link>http://www.robertasirovich.it/tags/gr%C3%B6bner-degeneration/</link>
+    <description>Recent content in Gröbner degeneration on Roberta&#39;s Personal Web Page</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 01 Jan 2016 00:00:00 +0000</lastBuildDate><atom:link href="http://www.robertasirovich.it/tags/gr%C3%B6bner-degeneration/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The Gröbner fan of the Hilbert scheme</title>
+      <link>http://www.robertasirovich.it/publications/kl/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.robertasirovich.it/publications/kl/</guid>
+      <description>Abstract. We give a notion of &amp;quot;combinatorial proximity&amp;quot; among strongly stable ideals in a given polynomial ring with a fixed Hilbert polynomial. We show that this notion guarantees &amp;quot;geometric proximity&amp;quot; of the corresponding points in the Hilbert scheme. We define a graph whose vertices correspond to strongly stable ideals and whose edges correspond to pairs of adjacent ideals. Every term order induces an orientation of the edges of the graph. This directed graph describes the behavior of the points of the Hilbert scheme under Gröbner degenerations with respect to the given term order.</description>
+    </item>
+    
+  </channel>
+</rss>

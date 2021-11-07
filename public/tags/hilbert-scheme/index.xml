@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hilbert scheme on Roberta&#39;s Personal Web Page</title>
+    <link>http://www.robertasirovich.it/tags/hilbert-scheme/</link>
+    <description>Recent content in Hilbert scheme on Roberta&#39;s Personal Web Page</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 02 Oct 2019 00:00:00 +0000</lastBuildDate><atom:link href="http://www.robertasirovich.it/tags/hilbert-scheme/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Rational components of Hilbert schemes</title>
+      <link>http://www.robertasirovich.it/publications/lr/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.robertasirovich.it/publications/lr/</guid>
+      <description>Abstract. The Gröbner stratum of a monomial ideal $J$ is an affine variety that parametrizes the family of all ideals having $J$ as initial ideal (with respect to a fixed term ordering). The Gröbner strata can be equipped in a natural way of a structure of homogeneous variety and are in a close connection with Hilbert schemes of subvarieties in the projective space $\mathbb{P}^n$. Using properties of the Gröbner strata we prove some sufficient conditions for the rationality of components of $\mathbf{Hilb}_{p(z)}(\mathbb{P}^n)$.</description>
+    </item>
+    
+    <item>
+      <title>An efficient implementation of the algorithm computing the Borel-fixed points of a Hilbert scheme</title>
+      <link>http://www.robertasirovich.it/publications/issac/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.robertasirovich.it/publications/issac/</guid>
+      <description>Abstract. Borel-fixed ideals play a key role in the study of Hilbert schemes. Indeed each component and each intersection of components of a Hilbert scheme contains at least one Borel-fixed point, i.e. a point corresponding to a subscheme defined by a Borel-fixed ideal. Moreover Borel-fixed ideals have good combinatorial properties, which make them very interesting in an algorithmic perspective. In this paper, we propose an implementation of the algorithm computing all the saturated Borel-fixed ideals with number of variables and Hilbert polynomial assigned, introduced from a theoretical point of view in the paper Cioffi-Lella-Marinari-Roggero, Segment ideals and Hilbert schemes of points, Discrete Mathematics 311(20), 2011.</description>
+    </item>
+    
+    <item>
+      <title>Upgraded methods for the effective computation of marked schemes on a strongly stable ideal</title>
+      <link>http://www.robertasirovich.it/publications/bclr/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.robertasirovich.it/publications/bclr/</guid>
+      <description>Abstract. Let $J \subset S=K[x_0,\ldots,x_n]$ be a monomial strongly stable ideal. The collection $\mathbf{Mf}(J)$ of the homogeneous polynomial ideals $I$, such that the monomials outside $J$ form a $K$-vector basis of $S/I$, is called a $J$-marked family. It can be endowed with a structure of affine scheme, called a $J$-marked scheme. For special ideals $J$, $J$-marked schemes provide an open cover of the Hilbert scheme $\mathbf{Hilb}_{p(t)}(\mathbb{P}^n)$, where $p(t)$ is the Hilbert polynomial of $S/J$.</description>
+    </item>
+    
+    <item>
+      <title>A Borel open cover of the Hilbert scheme</title>
+      <link>http://www.robertasirovich.it/publications/blr/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.robertasirovich.it/publications/blr/</guid>
+      <description>Abstract. Let $p(t)$ be an admissible Hilbert polynomial in $\mathbb{P}^n$ of degree $d$. The Hilbert scheme $\mathbf{Hilb}_{p(t)}(\mathbb{P}^n)$ can be realized as a closed subscheme of a suitable Grassmannian $\mathbf{Gr}$, hence it could be globally defined by homogeneous equations in the Plücker coordinates of $\mathbf{Gr}$ and covered by open subsets given by the non-vanishing of a Plücker coordinate, each embedded as a closed subscheme of the affine space $\mathbb{A}^D$, $D=\dim(\mathbf{Gr})$. However, the number $E$ of Plücker coordinates is so large that effective computations in this setting are practically impossible.</description>
+    </item>
+    
+    <item>
+      <title>The Hilbert schemes of locally Cohen-Macaulay curves in $\scriptsize \mathbb{P}^3$ may after all be connected</title>
+      <link>http://www.robertasirovich.it/publications/ls/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.robertasirovich.it/publications/ls/</guid>
+      <description>Abstract. Progress on the problem whether the Hilbert schemes of locally Cohen–Macaulay curves in $\mathbb{P}^3$ are connected has been hampered by the lack of an answer to a question raised by Robin Hartshorne in (Commun. Algebra 28:6059–6077, 2000) and more recently in (American Institute of Mathematics, Workshop components of Hilbert schemes, problem list, 2010, http://aimpl.org/hilbertschemes): does there exist a flat irreducible family of curves whose general member is a union of $d \geqslant 4$ disjoint lines on a smooth quadric surface and whose special member is a locally Cohen–Macaulay curve in a double plane?</description>
+    </item>
+    
+    <item>
+      <title>Smooth curves specialize to extremal curves</title>
+      <link>http://www.robertasirovich.it/publications/hls/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.robertasirovich.it/publications/hls/</guid>
+      <description>Abstract. Let $H_{d,g}$ denote the Hilbert scheme of locally Cohen-Macaulay curves of degree $d$ and genus $g$ in projective three space. We show that, given a smooth irreducible curve $C$ of degree $d$ and genus $g$, there is a rational curve $\{[C_t]: t \in \mathbb{A}^1\}$ in $H_{d,g}$ such that $C_t$ for $t \neq 0$ is projectively equivalent to $C$, while the special fibre $C_0$ is an extremal curve. It follows that smooth curves lie in a unique connected component of $H_{d,g}$.</description>
+    </item>
+    
+    <item>
+      <title>Extensors and the Hilbert scheme</title>
+      <link>http://www.robertasirovich.it/publications/blmr/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.robertasirovich.it/publications/blmr/</guid>
+      <description>Abstract. The Hilbert scheme $\mathbf{Hilb}_{p(t)}(\mathbb{P}^n)$ parametrizes closed subschemes and families of closed subschemes in the projective space $\mathbb{P}^n$ with a fixed Hilbert polynomial $p(t)$. It can be realized as a closed subscheme of a Grassmannian or a product of Grassmannians. In this paper we consider schemes over a field $k$ of characteristic zero and we present a new proof of the existence of the Hilbert scheme as a subscheme of the Grassmannian $\mathbf{Gr}_{p(r)}^{N(r)}$, where $N(r)=h^0\big(\mathcal{O}_{\mathbb{P}^n}(r)\big)$.</description>
+    </item>
+    
+    <item>
+      <title>On the functoriality of marked families</title>
+      <link>http://www.robertasirovich.it/publications/lr2/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.robertasirovich.it/publications/lr2/</guid>
+      <description>Abstract. The application of methods of computational algebra has recently introduced new tools for the study of Hilbert schemes. The key idea is to define flat families of ideals endowed with a scheme structure whose defining equations can be determined by algorithmic procedures. For this reason, several authors developed new methods, based on the combinatorial properties of Borel-fixed ideals, that allow to associate to each ideal $J$ of this type a scheme $\mathbf{Mf}(J)$, called $J$-marked scheme.</description>
+    </item>
+    
+    <item>
+      <title>The maximum genus problem for locally Cohen-Macaulay space curves</title>
+      <link>http://www.robertasirovich.it/publications/bls/</link>
+      <pubDate>Tue, 01 Oct 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.robertasirovich.it/publications/bls/</guid>
+      <description>Abstract. Let $P_{\text{max}}(d,s)$ denote the maximum arithmetic genus of a locally Cohen-Macaulay curve of degree $d$ in $\mathbb{P}^3$ that is not contained in a surface of degree $&amp;lt; s$. A bound $P(d, s)$ for $P_{\text{max}}(d,s)$ has been proven by the first author in characteristic zero and then generalized in any characteristic by the third author. In this paper, we construct a large family $\mathcal{C}$ of primitive multiple lines and we conjecture that the generic element of $\mathcal{C}$ has good cohomological properties.</description>
+    </item>
+    
+    <item>
+      <title>Strongly stable ideals and Hilbert polynomials</title>
+      <link>http://www.robertasirovich.it/publications/al/</link>
+      <pubDate>Wed, 02 Oct 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.robertasirovich.it/publications/al/</guid>
+      <description>Abstract. The StronglyStableIdeals.m2 package for Macaulay2 provides a method to compute all saturated strongly stable ideals in a given polynomial ring with a fixed Hilbert polynomial. A description of the main method and auxiliary tools is given.
+ Ancillary Material  Macaulay2 package StronglyStableIdeals.m2.  </description>
+    </item>
+    
+    <item>
+      <title>The Gröbner fan of the Hilbert scheme</title>
+      <link>http://www.robertasirovich.it/publications/kl/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.robertasirovich.it/publications/kl/</guid>
+      <description>Abstract. We give a notion of &amp;quot;combinatorial proximity&amp;quot; among strongly stable ideals in a given polynomial ring with a fixed Hilbert polynomial. We show that this notion guarantees &amp;quot;geometric proximity&amp;quot; of the corresponding points in the Hilbert scheme. We define a graph whose vertices correspond to strongly stable ideals and whose edges correspond to pairs of adjacent ideals. Every term order induces an orientation of the edges of the graph. This directed graph describes the behavior of the points of the Hilbert scheme under Gröbner degenerations with respect to the given term order.</description>
+    </item>
+    
+    <item>
+      <title>On the tangent space to the Hilbert scheme</title>
+      <link>http://www.robertasirovich.it/publications/ltangent/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.robertasirovich.it/publications/ltangent/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>MarkedSchemes.m2 - A M2 package for marked schemes and Groebner strata</title>
+      <link>http://www.robertasirovich.it/publications/lm2/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.robertasirovich.it/publications/lm2/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

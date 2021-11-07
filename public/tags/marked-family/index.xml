@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>marked family on Roberta&#39;s Personal Web Page</title>
+    <link>http://www.robertasirovich.it/tags/marked-family/</link>
+    <description>Recent content in marked family on Roberta&#39;s Personal Web Page</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 01 Jan 2016 00:00:00 +0000</lastBuildDate><atom:link href="http://www.robertasirovich.it/tags/marked-family/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>On the functoriality of marked families</title>
+      <link>http://www.robertasirovich.it/publications/lr2/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.robertasirovich.it/publications/lr2/</guid>
+      <description>Abstract. The application of methods of computational algebra has recently introduced new tools for the study of Hilbert schemes. The key idea is to define flat families of ideals endowed with a scheme structure whose defining equations can be determined by algorithmic procedures. For this reason, several authors developed new methods, based on the combinatorial properties of Borel-fixed ideals, that allow to associate to each ideal $J$ of this type a scheme $\mathbf{Mf}(J)$, called $J$-marked scheme.</description>
+    </item>
+    
+    <item>
+      <title>Computing marked families via sygyzy forecasting</title>
+      <link>http://www.robertasirovich.it/publications/bcl/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.robertasirovich.it/publications/bcl/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

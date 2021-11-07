@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Publications on Roberta&#39;s Personal Web Page</title>
+    <link>http://www.robertasirovich.it/publications/</link>
+    <description>Recent content in Publications on Roberta&#39;s Personal Web Page</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 20 Oct 2021 00:00:00 +0000</lastBuildDate><atom:link href="http://www.robertasirovich.it/publications/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Rational components of Hilbert schemes</title>
+      <link>http://www.robertasirovich.it/publications/lr/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.robertasirovich.it/publications/lr/</guid>
+      <description>Abstract. The Gröbner stratum of a monomial ideal $J$ is an affine variety that parametrizes the family of all ideals having $J$ as initial ideal (with respect to a fixed term ordering). The Gröbner strata can be equipped in a natural way of a structure of homogeneous variety and are in a close connection with Hilbert schemes of subvarieties in the projective space $\mathbb{P}^n$. Using properties of the Gröbner strata we prove some sufficient conditions for the rationality of components of $\mathbf{Hilb}_{p(z)}(\mathbb{P}^n)$.</description>
+    </item>
+    
+    <item>
+      <title>Segments and Hilbert schemes of points</title>
+      <link>http://www.robertasirovich.it/publications/clmr/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.robertasirovich.it/publications/clmr/</guid>
+      <description>Abstract. Using results obtained from the study of homogeneous ideals sharing the same initial ideal with respect to some term order, we prove the singularity of the point corresponding to a segment ideal with respect to the revlex term order in the Hilbert scheme of points in $\mathbb{P}^n$. In this context, we look inside properties of several types of &amp;ldquo;segment&amp;rdquo; ideals that we define and compare. This study led us to focus our attention also to connections between the shape of generators of Borel ideals and the related Hilbert polynomial, providing an algorithm for computing all saturated Borel ideals with the given Hilbert polynomial.</description>
+    </item>
+    
+    <item>
+      <title>An efficient implementation of the algorithm computing the Borel-fixed points of a Hilbert scheme</title>
+      <link>http://www.robertasirovich.it/publications/issac/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.robertasirovich.it/publications/issac/</guid>
+      <description>Abstract. Borel-fixed ideals play a key role in the study of Hilbert schemes. Indeed each component and each intersection of components of a Hilbert scheme contains at least one Borel-fixed point, i.e. a point corresponding to a subscheme defined by a Borel-fixed ideal. Moreover Borel-fixed ideals have good combinatorial properties, which make them very interesting in an algorithmic perspective. In this paper, we propose an implementation of the algorithm computing all the saturated Borel-fixed ideals with number of variables and Hilbert polynomial assigned, introduced from a theoretical point of view in the paper Cioffi-Lella-Marinari-Roggero, Segment ideals and Hilbert schemes of points, Discrete Mathematics 311(20), 2011.</description>
+    </item>
+    
+    <item>
+      <title>Upgraded methods for the effective computation of marked schemes on a strongly stable ideal</title>
+      <link>http://www.robertasirovich.it/publications/bclr/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.robertasirovich.it/publications/bclr/</guid>
+      <description>Abstract. Let $J \subset S=K[x_0,\ldots,x_n]$ be a monomial strongly stable ideal. The collection $\mathbf{Mf}(J)$ of the homogeneous polynomial ideals $I$, such that the monomials outside $J$ form a $K$-vector basis of $S/I$, is called a $J$-marked family. It can be endowed with a structure of affine scheme, called a $J$-marked scheme. For special ideals $J$, $J$-marked schemes provide an open cover of the Hilbert scheme $\mathbf{Hilb}_{p(t)}(\mathbb{P}^n)$, where $p(t)$ is the Hilbert polynomial of $S/J$.</description>
+    </item>
+    
+    <item>
+      <title>A Borel open cover of the Hilbert scheme</title>
+      <link>http://www.robertasirovich.it/publications/blr/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.robertasirovich.it/publications/blr/</guid>
+      <description>Abstract. Let $p(t)$ be an admissible Hilbert polynomial in $\mathbb{P}^n$ of degree $d$. The Hilbert scheme $\mathbf{Hilb}_{p(t)}(\mathbb{P}^n)$ can be realized as a closed subscheme of a suitable Grassmannian $\mathbf{Gr}$, hence it could be globally defined by homogeneous equations in the Plücker coordinates of $\mathbf{Gr}$ and covered by open subsets given by the non-vanishing of a Plücker coordinate, each embedded as a closed subscheme of the affine space $\mathbb{A}^D$, $D=\dim(\mathbf{Gr})$. However, the number $E$ of Plücker coordinates is so large that effective computations in this setting are practically impossible.</description>
+    </item>
+    
+    <item>
+      <title>Gaussian curves for visualizing chronological patterns of ceramic finds and residuality</title>
+      <link>http://www.robertasirovich.it/publications/fl/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.robertasirovich.it/publications/fl/</guid>
+      <description>Abstract. This paper describes a particular statistical approach to chronological data from assemblages of archaeological finds (namely pottery) using Gaussian curves: the method enables us to obtain a graphic representation of chronological patterns that avoids an excessive flattening of data, adding an extra dimension to the usual linear temporal concepts. This enables us to arrive at more likely absolute dating and also visualize residuality. The method has been built during the study of a stratigraphic context from the Site of Ancient Ships of Pisa - San Rossore, Italy, and applied to its pottery.</description>
+    </item>
+    
+    <item>
+      <title>The Hilbert schemes of locally Cohen-Macaulay curves in $\scriptsize \mathbb{P}^3$ may after all be connected</title>
+      <link>http://www.robertasirovich.it/publications/ls/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.robertasirovich.it/publications/ls/</guid>
+      <description>Abstract. Progress on the problem whether the Hilbert schemes of locally Cohen–Macaulay curves in $\mathbb{P}^3$ are connected has been hampered by the lack of an answer to a question raised by Robin Hartshorne in (Commun. Algebra 28:6059–6077, 2000) and more recently in (American Institute of Mathematics, Workshop components of Hilbert schemes, problem list, 2010, http://aimpl.org/hilbertschemes): does there exist a flat irreducible family of curves whose general member is a union of $d \geqslant 4$ disjoint lines on a smooth quadric surface and whose special member is a locally Cohen–Macaulay curve in a double plane?</description>
+    </item>
+    
+    <item>
+      <title>Smooth curves specialize to extremal curves</title>
+      <link>http://www.robertasirovich.it/publications/hls/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.robertasirovich.it/publications/hls/</guid>
+      <description>Abstract. Let $H_{d,g}$ denote the Hilbert scheme of locally Cohen-Macaulay curves of degree $d$ and genus $g$ in projective three space. We show that, given a smooth irreducible curve $C$ of degree $d$ and genus $g$, there is a rational curve $\{[C_t]: t \in \mathbb{A}^1\}$ in $H_{d,g}$ such that $C_t$ for $t \neq 0$ is projectively equivalent to $C$, while the special fibre $C_0$ is an extremal curve. It follows that smooth curves lie in a unique connected component of $H_{d,g}$.</description>
+    </item>
+    
+    <item>
+      <title>Minimal Castelnuovo-Mumford regularity for a given Hilbert polynomial</title>
+      <link>http://www.robertasirovich.it/publications/clmr2/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.robertasirovich.it/publications/clmr2/</guid>
+      <description>Abstract. Let $K$ be an algebraically closed field of null characteristic and $p(z)$ a Hilbert polynomial. We look for the minimal Castelnuovo-Mumford regularity $m_{p(z)}$ of closed subschemes of projective spaces over $K$ with Hilbert polynomial $p(z)$. Experimental evidences led us to consider the idea that $m_{p(z)}$ could be achieved by schemes having a suitable minimal Hilbert function. We give a constructive proof of this fact. Moreover, we are able to compute the minimal Castelnuovo-Mumford regularity $m_{p(z)}^{\varrho}$ of schemes with Hilbert polynomial $p(z)$ and given regularity $\varrho$ of the Hilbert function, and also the minimal Castelnuovo-Mumford regularity $m_u$ of schemes with Hilbert function $u$.</description>
+    </item>
+    
+    <item>
+      <title>The maximum likelihood degree of Fermat hypersurfaces</title>
+      <link>http://www.robertasirovich.it/publications/aagl/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.robertasirovich.it/publications/aagl/</guid>
+      <description>Abstract. We study the critical points of the likelihood function over the Fermat hypersurface. This problem is related to one of the main problems in statistical optimization: maximum likelihood estimation. The number of critical points over a projective variety is a topological invariant of the variety and is called maximum likelihood degree. We provide closed formulas for the maximum likelihood degree of any Fermat curve in the projective plane and of Fermat hypersurfaces of degree 2 in any projective space.</description>
+    </item>
+    
+    <item>
+      <title>A combinatorial description of finite O-sequences and aCM genera</title>
+      <link>http://www.robertasirovich.it/publications/clm/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.robertasirovich.it/publications/clm/</guid>
+      <description>Abstract. The goal of this paper is to explicitly detect all the arithmetic genera of arithmetically Cohen–Macaulay projective curves with a given degree $d$. It is well-known that the arithmetic genus $g$ of a curve $C$ can be easily deduced from the $h$-vector of the curve; in the case where $C$ is arithmetically Cohen–Macaulay of degree $d$, $g$ must belong to the range of integers $\left\{0,\ldots,\binom{d-1}{2}\right\}$. We develop an algorithmic procedure that allows one to avoid constructing most of the possible $h$-vectors of $C$.</description>
+    </item>
+    
+    <item>
+      <title>Extensors and the Hilbert scheme</title>
+      <link>http://www.robertasirovich.it/publications/blmr/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.robertasirovich.it/publications/blmr/</guid>
+      <description>Abstract. The Hilbert scheme $\mathbf{Hilb}_{p(t)}(\mathbb{P}^n)$ parametrizes closed subschemes and families of closed subschemes in the projective space $\mathbb{P}^n$ with a fixed Hilbert polynomial $p(t)$. It can be realized as a closed subscheme of a Grassmannian or a product of Grassmannians. In this paper we consider schemes over a field $k$ of characteristic zero and we present a new proof of the existence of the Hilbert scheme as a subscheme of the Grassmannian $\mathbf{Gr}_{p(r)}^{N(r)}$, where $N(r)=h^0\big(\mathcal{O}_{\mathbb{P}^n}(r)\big)$.</description>
+    </item>
+    
+    <item>
+      <title>On the functoriality of marked families</title>
+      <link>http://www.robertasirovich.it/publications/lr2/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.robertasirovich.it/publications/lr2/</guid>
+      <description>Abstract. The application of methods of computational algebra has recently introduced new tools for the study of Hilbert schemes. The key idea is to define flat families of ideals endowed with a scheme structure whose defining equations can be determined by algorithmic procedures. For this reason, several authors developed new methods, based on the combinatorial properties of Borel-fixed ideals, that allow to associate to each ideal $J$ of this type a scheme $\mathbf{Mf}(J)$, called $J$-marked scheme.</description>
+    </item>
+    
+    <item>
+      <title>A computational approach to the ample cone of moduli spaces of curves</title>
+      <link>http://www.robertasirovich.it/publications/fgl/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.robertasirovich.it/publications/fgl/</guid>
+      <description>Abstract. We present an alternate proof, much quicker and more straightforward than the original one, of the celebrated F-conjecture on the ample cone of the moduli space $\overline{M}_{0,n}$ of stable rational curves with $n$ marked points in the case $n = 7$.
+ Ancillary Material  Macaulay2 package M07.m2. Macaulay2 script proof-M-0-5.m2 with proof of the F-conjecture for $n = 5$. Macaulay2 script proof-M-0-6.m2 with proof of the F-conjecture for $n = 6$.</description>
+    </item>
+    
+    <item>
+      <title>Truncated modules and linear presentations of vector bundles</title>
+      <link>http://www.robertasirovich.it/publications/bfl/</link>
+      <pubDate>Wed, 02 Oct 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.robertasirovich.it/publications/bfl/</guid>
+      <description>Abstract. We give a new method to construct linear spaces of matrices of constant rank, based on truncated graded cohomology modules of certain vector bundles as well as on the existence of graded Artinian modules with pure resolutions. Our method allows one to produce several new examples, and provides an alternative point of view on the existing ones.
+ Ancillary Material  Macaulay2 package ConstantRankMatrices.m2 for computing matrices of constant rank.</description>
+    </item>
+    
+    <item>
+      <title>The maximum genus problem for locally Cohen-Macaulay space curves</title>
+      <link>http://www.robertasirovich.it/publications/bls/</link>
+      <pubDate>Tue, 01 Oct 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.robertasirovich.it/publications/bls/</guid>
+      <description>Abstract. Let $P_{\text{max}}(d,s)$ denote the maximum arithmetic genus of a locally Cohen-Macaulay curve of degree $d$ in $\mathbb{P}^3$ that is not contained in a surface of degree $&amp;lt; s$. A bound $P(d, s)$ for $P_{\text{max}}(d,s)$ has been proven by the first author in characteristic zero and then generalized in any characteristic by the third author. In this paper, we construct a large family $\mathcal{C}$ of primitive multiple lines and we conjecture that the generic element of $\mathcal{C}$ has good cohomological properties.</description>
+    </item>
+    
+    <item>
+      <title>Strongly stable ideals and Hilbert polynomials</title>
+      <link>http://www.robertasirovich.it/publications/al/</link>
+      <pubDate>Wed, 02 Oct 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.robertasirovich.it/publications/al/</guid>
+      <description>Abstract. The StronglyStableIdeals.m2 package for Macaulay2 provides a method to compute all saturated strongly stable ideals in a given polynomial ring with a fixed Hilbert polynomial. A description of the main method and auxiliary tools is given.
+ Ancillary Material  Macaulay2 package StronglyStableIdeals.m2.  </description>
+    </item>
+    
+    <item>
+      <title>The Gröbner fan of the Hilbert scheme</title>
+      <link>http://www.robertasirovich.it/publications/kl/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.robertasirovich.it/publications/kl/</guid>
+      <description>Abstract. We give a notion of &amp;quot;combinatorial proximity&amp;quot; among strongly stable ideals in a given polynomial ring with a fixed Hilbert polynomial. We show that this notion guarantees &amp;quot;geometric proximity&amp;quot; of the corresponding points in the Hilbert scheme. We define a graph whose vertices correspond to strongly stable ideals and whose edges correspond to pairs of adjacent ideals. Every term order induces an orientation of the edges of the graph. This directed graph describes the behavior of the points of the Hilbert scheme under Gröbner degenerations with respect to the given term order.</description>
+    </item>
+    
+    <item>
+      <title>A construction of equivariant bundles on the space of symmetric forms</title>
+      <link>http://www.robertasirovich.it/publications/bfl2/</link>
+      <pubDate>Wed, 20 Oct 2021 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.robertasirovich.it/publications/bfl2/</guid>
+      <description>Abstract. We construct stable vector bundles on the space of symmetric forms of degree $d$ in $n+1$ variables which are equivariant for the action of $\text{SL}_{n+1}(\mathbb{C})$, and admit an equivariant free resolution of length 2. For $n=1$, we obtain new examples of stable vector bundles of rank $d-1$ on $\mathbb{P}^d$, which are moreover equivariant for $\text{SL}_2(\mathbb{C})$. The presentation matrix of these bundles attains Westwick&amp;rsquo;s upper bound for the dimension of vector spaces of matrices of constant rank and fixed size.</description>
+    </item>
+    
+    <item>
+      <title>Computing marked families via sygyzy forecasting</title>
+      <link>http://www.robertasirovich.it/publications/bcl/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.robertasirovich.it/publications/bcl/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>On the tangent space to the Hilbert scheme</title>
+      <link>http://www.robertasirovich.it/publications/ltangent/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.robertasirovich.it/publications/ltangent/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>MarkedSchemes.m2 - A M2 package for marked schemes and Groebner strata</title>
+      <link>http://www.robertasirovich.it/publications/lm2/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.robertasirovich.it/publications/lm2/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

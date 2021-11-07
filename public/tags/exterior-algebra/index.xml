@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>exterior algebra on Roberta&#39;s Personal Web Page</title>
+    <link>http://www.robertasirovich.it/tags/exterior-algebra/</link>
+    <description>Recent content in exterior algebra on Roberta&#39;s Personal Web Page</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 01 Jan 2016 00:00:00 +0000</lastBuildDate><atom:link href="http://www.robertasirovich.it/tags/exterior-algebra/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Extensors and the Hilbert scheme</title>
+      <link>http://www.robertasirovich.it/publications/blmr/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.robertasirovich.it/publications/blmr/</guid>
+      <description>Abstract. The Hilbert scheme $\mathbf{Hilb}_{p(t)}(\mathbb{P}^n)$ parametrizes closed subschemes and families of closed subschemes in the projective space $\mathbb{P}^n$ with a fixed Hilbert polynomial $p(t)$. It can be realized as a closed subscheme of a Grassmannian or a product of Grassmannians. In this paper we consider schemes over a field $k$ of characteristic zero and we present a new proof of the existence of the Hilbert scheme as a subscheme of the Grassmannian $\mathbf{Gr}_{p(r)}^{N(r)}$, where $N(r)=h^0\big(\mathcal{O}_{\mathbb{P}^n}(r)\big)$.</description>
+    </item>
+    
+  </channel>
+</rss>

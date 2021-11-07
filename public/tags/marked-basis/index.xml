@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>marked basis on Roberta&#39;s Personal Web Page</title>
+    <link>http://www.robertasirovich.it/tags/marked-basis/</link>
+    <description>Recent content in marked basis on Roberta&#39;s Personal Web Page</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 01 Jan 2016 00:00:00 +0000</lastBuildDate><atom:link href="http://www.robertasirovich.it/tags/marked-basis/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>On the tangent space to the Hilbert scheme</title>
+      <link>http://www.robertasirovich.it/publications/ltangent/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.robertasirovich.it/publications/ltangent/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>MarkedSchemes.m2 - A M2 package for marked schemes and Groebner strata</title>
+      <link>http://www.robertasirovich.it/publications/lm2/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.robertasirovich.it/publications/lm2/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

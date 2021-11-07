@@ -1,0 +1,42 @@
+{{ define "main" }}
+   {{ partial "about.html" .}}
+   {{ if .Site.Params.showExperience }}
+       {{ partial "portfolio/experience.html" . }}
+   {{ end }}
+   {{ if .Site.Params.showEducation }}
+       {{ partial "portfolio/education.html" . }}
+   {{ end }}
+   {{ if .Site.Params.showResearch }}
+      {{ with .Site.GetPage "section" "research" }}
+         {{ .Scratch.Set "sectionId" "research" }}
+         {{ partial "researchSectionSummary" . }}
+      {{ end }}
+   {{ end }}
+   {{ if .Site.Params.showPublications }}
+      {{ with .Site.GetPage "section" "publications" }}
+         {{ .Scratch.Set "sectionId" "publications" }} 
+         {{ partial "publicationSectionSummary" . }}
+      {{ end }}
+   {{ end }}
+   {{ if .Site.Params.showSoftware }}
+      {{ with .Site.GetPage "section" "software" }}
+         {{ .Scratch.Set "sectionId" "software" }}
+         {{ partial "sectionSummary" . }}
+      {{ end }}
+   {{ end }}
+   {{ if .Site.Params.showTeaching }}
+      {{ with .Site.GetPage "section" "teaching" }}
+         {{ .Scratch.Set "sectionId" "teaching" }}
+         {{ partial "teachingSectionSummary" . }}
+      {{ end }}
+   {{ end }}
+   {{ if .Site.Params.showSkills }}
+       {{ partial "portfolio/skills.html" . }}
+   {{ end }}
+   {{ if .Site.Params.showBlog }}
+      {{ with .Site.GetPage "section" "blog" }}
+         {{ .Scratch.Set "sectionId" "blog" }}
+         {{ partial "sectionSummary" . }}
+      {{ end }}
+   {{ end }}
+{{ end }}

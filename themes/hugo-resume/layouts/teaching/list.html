@@ -1,0 +1,62 @@
+{{ define "main" }}
+{{ partial "breadcrumbs" . }}
+  {{ if .Params.course }}
+  <section class="resume-section p-3 p-lg-5 d-flex d-column content">
+  <div class="my-auto" style="min-width: 100%">
+    <h3 class="mt-0"> A.Y. {{ .Params.aa }} - {{ .Params.semester }} semester </h3>
+    <h2 style="font-size: 2.5rem" class="mb-0 text-primary">{{ .Title }} {{ with .Params.enTitle }}<span style="font-weight: 500; font-size: 75%; color: #495057;">({{ . }})</span> {{ end }} </h2>
+    <h3 class="mt-2 mb-0"> 
+      {{ .Params.university}}{{ with .Params.school }} - <em>{{ . }}</em>{{ end }}
+    </h3>
+    <h3 class="mt-1 mb-4">
+      {{ if eq .Params.degree "bachelor"}}
+         Bachelor of Science in 
+      {{ else if eq .Params.degree "master" }}
+         Master of Science in 
+      {{ end }}
+    <span style="font-weight: 550;"><em>{{ .Params.program }}</em></span>
+    </h3>
+    {{ with .Params.instructor }}
+    <p class="mb-2 mt-2"> <strong>Instructor:</strong> {{ . }}</p>
+    {{ end }}
+    {{ with .Params.assistant }}
+    <p class="mb-2 mt-2"> <strong>Teaching assistant:</strong> {{ . }}</p>
+    {{ end }}
+    {{ if .Params.showWeb }}
+    <p class="mb-2 mt-2"><a href="{{ .Params.web }}" target="_blank"><strong>Web page:</strong></a> syllabus, schedule, ...</p>
+    {{ end }}
+    {{ if .Params.showBeep }}
+    <p class="mb-2 mt-2"><a href="{{ .Params.beep }}" target="_blank"><strong>Beep page:</strong></a> announcements, ancillary material, ...</p>
+    {{ end }}
+    {{ if .Params.showMoodle }}
+    <p class="mb-4"><a href="{{ .Params.moodle }}" target="_blank"><strong>Moodle page:</strong></a> lesson slides and videos, exercises, ...</p>
+    {{ end }}
+    <p>
+      {{ .Content }}
+    </p>
+
+    {{ $featuredPages := where .Pages "Params.featured" true }}
+    {{ if gt $featuredPages 0 }}
+    <hr>
+    <h2 style="font-size: 200%;"> CALENDARIO DELLE LEZIONI</h2>
+    {{ end }}
+    
+      {{ range $featuredPages }}
+        {{ partial "lesson" . }}
+      {{ end }} 
+  </div>
+  </section>
+  {{ else }}
+  <section class="resume-section p-3 p-lg-5 d-flex d-column content">
+    <div class="my-auto">
+      <h2 class="summarySection mb-5">{{ .Title }}</h2>
+
+      <p>{{ .Content }}</p>
+    
+      {{ range .Pages.Reverse }}
+        {{ partial (printf "%s%s" .Section "Summary") . }}
+      {{ end }}
+    </div>
+  </section>
+  {{ end }}
+{{ end }}

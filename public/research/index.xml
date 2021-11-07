@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Research projects on Roberta&#39;s Personal Web Page</title>
+    <link>http://www.robertasirovich.it/research/</link>
+    <description>Recent content in Research projects on Roberta&#39;s Personal Web Page</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate><atom:link href="http://www.robertasirovich.it/research/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Construction of rational families with general moduli</title>
+      <link>http://www.robertasirovich.it/research/unirationality/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.robertasirovich.it/research/unirationality/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Construction of linearly presented vector bundles</title>
+      <link>http://www.robertasirovich.it/research/vector-bundles/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.robertasirovich.it/research/vector-bundles/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The maximum genus problem for locally Cohen-Macaulay curve in $\small \mathbb{P}^3$</title>
+      <link>http://www.robertasirovich.it/research/maximum-genus/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.robertasirovich.it/research/maximum-genus/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The connectedness of the Hilbert scheme of locally Cohen-Macaulay curves in $\small \mathbb{P}^3$</title>
+      <link>http://www.robertasirovich.it/research/connectedness/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.robertasirovich.it/research/connectedness/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Approximation theory for slice functions</title>
+      <link>http://www.robertasirovich.it/research/slice-approximation/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.robertasirovich.it/research/slice-approximation/</guid>
+      <description>Slice functions are function defined over real associative algebras (such as quaternions, octonions, Clifford algebras,&amp;hellip;) induced by special complex functions, the so-called stem function. A key result in this theory is the so-called Splitting Lemma saying that, given a basis of the real associtative algebra as $\small \mathbb{C}$-vector space, a slice function $f$ is completely described by a sequence of $\small \mathbb{C}$-valued complex functions $(f_0,\ldots,f_h)$. Hence, the following question arises naturally: if we consider an approximation of each $\small \mathbb{C}$-valued complex function $f_\ell$, do we get an approximation of the slice function $f$?</description>
+    </item>
+    
+    <item>
+      <title>Combinatorics of Hilbert schemes</title>
+      <link>http://www.robertasirovich.it/research/hilb/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.robertasirovich.it/research/hilb/</guid>
+      <description>This is the &amp;ldquo;first love&amp;rdquo; since my master degree thesis. Using the rich combinatorial properties of strongly stable ideals, I try to investigate the Hilbert scheme parametrizing subscheme of $\small \mathbb{P}^n$ with a given Hilbert polynomial.</description>
+    </item>
+    
+  </channel>
+</rss>

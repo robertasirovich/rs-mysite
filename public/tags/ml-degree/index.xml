@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ML degree on Roberta&#39;s Personal Web Page</title>
+    <link>http://www.robertasirovich.it/tags/ml-degree/</link>
+    <description>Recent content in ML degree on Roberta&#39;s Personal Web Page</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 01 Jan 2015 00:00:00 +0000</lastBuildDate><atom:link href="http://www.robertasirovich.it/tags/ml-degree/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The maximum likelihood degree of Fermat hypersurfaces</title>
+      <link>http://www.robertasirovich.it/publications/aagl/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.robertasirovich.it/publications/aagl/</guid>
+      <description>Abstract. We study the critical points of the likelihood function over the Fermat hypersurface. This problem is related to one of the main problems in statistical optimization: maximum likelihood estimation. The number of critical points over a projective variety is a topological invariant of the variety and is called maximum likelihood degree. We provide closed formulas for the maximum likelihood degree of any Fermat curve in the projective plane and of Fermat hypersurfaces of degree 2 in any projective space.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>equivariant resolution on Roberta&#39;s Personal Web Page</title>
+    <link>http://www.robertasirovich.it/tags/equivariant-resolution/</link>
+    <description>Recent content in equivariant resolution on Roberta&#39;s Personal Web Page</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 20 Oct 2021 00:00:00 +0000</lastBuildDate><atom:link href="http://www.robertasirovich.it/tags/equivariant-resolution/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>A construction of equivariant bundles on the space of symmetric forms</title>
+      <link>http://www.robertasirovich.it/publications/bfl2/</link>
+      <pubDate>Wed, 20 Oct 2021 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.robertasirovich.it/publications/bfl2/</guid>
+      <description>Abstract. We construct stable vector bundles on the space of symmetric forms of degree $d$ in $n+1$ variables which are equivariant for the action of $\text{SL}_{n+1}(\mathbb{C})$, and admit an equivariant free resolution of length 2. For $n=1$, we obtain new examples of stable vector bundles of rank $d-1$ on $\mathbb{P}^d$, which are moreover equivariant for $\text{SL}_2(\mathbb{C})$. The presentation matrix of these bundles attains Westwick&amp;rsquo;s upper bound for the dimension of vector spaces of matrices of constant rank and fixed size.</description>
+    </item>
+    
+  </channel>
+</rss>

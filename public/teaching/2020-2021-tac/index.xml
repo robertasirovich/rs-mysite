@@ -1,0 +1,458 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Topologia Algebrica Computazionale on Roberta&#39;s Personal Web Page</title>
+    <link>http://www.robertasirovich.it/teaching/2020-2021-tac/</link>
+    <description>Recent content in Topologia Algebrica Computazionale on Roberta&#39;s Personal Web Page</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 08 Nov 2016 00:00:00 +0000</lastBuildDate><atom:link href="http://www.robertasirovich.it/teaching/2020-2021-tac/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Lezione 0</title>
+      <link>http://www.robertasirovich.it/teaching/2020-2021-tac/lezione00/</link>
+      <pubDate>Tue, 08 Nov 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.robertasirovich.it/teaching/2020-2021-tac/lezione00/</guid>
+      <description>Introduzione al corso. Il problema della classificazione degli spazi topologici. Esempio di un&amp;rsquo;idea di analisi dati topologica.
+Note della lezione</description>
+    </item>
+    
+    <item>
+      <title>Lezione 1</title>
+      <link>http://www.robertasirovich.it/teaching/2020-2021-tac/lezione01/</link>
+      <pubDate>Fri, 16 Sep 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.robertasirovich.it/teaching/2020-2021-tac/lezione01/</guid>
+      <description>L&amp;rsquo;anello dei numeri interi $\mathbb{Z}$. La divisione con resto. Congruenza modulo $n$ e classi di resto. Divisori dello zero ed elementi invertibili in $\mathbb{Z}_n$.
+Note della lezione
+Video della lezione
+Video della lezione (accesso riservato utenti Polimi)   </description>
+    </item>
+    
+    <item>
+      <title>Lezione 2</title>
+      <link>http://www.robertasirovich.it/teaching/2020-2021-tac/lezione02/</link>
+      <pubDate>Sat, 17 Sep 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.robertasirovich.it/teaching/2020-2021-tac/lezione02/</guid>
+      <description>Massimo comune divisore e algoritmo di Euclide. Campi finiti. Sottogruppi, relazioni di equivalenza compatibili e gruppo quoziente.
+Note della lezione
+Video della lezione
+Video della lezione (accesso riservato utenti Polimi)   </description>
+    </item>
+    
+    <item>
+      <title>Lezione 3</title>
+      <link>http://www.robertasirovich.it/teaching/2020-2021-tac/lezione03/</link>
+      <pubDate>Tue, 08 Nov 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.robertasirovich.it/teaching/2020-2021-tac/lezione03/</guid>
+      <description>Omomorfismo di gruppi. Nucleo, immagine e conucleo. Teorema fondamentale di omomorfismo. Ordine di un elemento e gruppi ciclici. Prodotto diretto e somma diretta esterna.
+Note della lezione
+Video della lezione
+Video della lezione (accesso riservato utenti Polimi)   </description>
+    </item>
+    
+    <item>
+      <title>Lezione 4</title>
+      <link>http://www.robertasirovich.it/teaching/2020-2021-tac/lezione04/</link>
+      <pubDate>Tue, 08 Nov 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.robertasirovich.it/teaching/2020-2021-tac/lezione04/</guid>
+      <description>Generatori e base di un gruppo. Gruppi liberi. Rango. Gruppo libero generato da un insieme. Somma diretta interna. Sottogruppo di torsione. Teorema fondamentale dei gruppi abeliani finitamente generati.
+Note della lezione
+Video della lezione
+Video della lezione (accesso riservato utenti Polimi)   </description>
+    </item>
+    
+    <item>
+      <title>Lezione 5</title>
+      <link>http://www.robertasirovich.it/teaching/2020-2021-tac/lezione05/</link>
+      <pubDate>Fri, 16 Sep 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.robertasirovich.it/teaching/2020-2021-tac/lezione05/</guid>
+      <description>Punti geometricamente indipendenti. Simplessi e coordinate baricentriche.
+Note della lezione
+Video della lezione
+Video della lezione (accesso riservato utenti Polimi)   </description>
+    </item>
+    
+    <item>
+      <title>Lezione 6</title>
+      <link>http://www.robertasirovich.it/teaching/2020-2021-tac/lezione06/</link>
+      <pubDate>Wed, 30 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.robertasirovich.it/teaching/2020-2021-tac/lezione06/</guid>
+      <description>Teorema di omeomorfismo tra $n$-simplesso e palla $n$-dimensionale. Complessi simpliciali.
+Note della lezione
+Video della lezione
+Video della lezione (accesso riservato utenti Polimi)   </description>
+    </item>
+    
+    <item>
+      <title>Lezione 7</title>
+      <link>http://www.robertasirovich.it/teaching/2020-2021-tac/lezione07/</link>
+      <pubDate>Fri, 16 Sep 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.robertasirovich.it/teaching/2020-2021-tac/lezione07/</guid>
+      <description>Complessi simpliciali. Sottocomplessi e scheletri. Topologia di un complesso simpliciale. Continuità di funzioni definite sullo spazio soggiacente un complesso simpliciale. Star, star chiusa, link di un vertice.
+Note della lezione
+Video della lezione
+Video della lezione (accesso riservato utenti Polimi)   </description>
+    </item>
+    
+    <item>
+      <title>Lezione 8</title>
+      <link>http://www.robertasirovich.it/teaching/2020-2021-tac/lezione08/</link>
+      <pubDate>Fri, 16 Sep 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.robertasirovich.it/teaching/2020-2021-tac/lezione08/</guid>
+      <description>Mappe simpliciali. Isomorfismo tra complessi simpliciali e omeomorfismo tra spazi soggiacenti. Complessi simpliciali astratti. Vertex scheme e realizzazione geometrica.
+Note della lezione
+Video della lezione
+Video della lezione (accesso riservato utenti Polimi)   </description>
+    </item>
+    
+    <item>
+      <title>Lezione 9</title>
+      <link>http://www.robertasirovich.it/teaching/2020-2021-tac/lezione09/</link>
+      <pubDate>Fri, 16 Sep 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.robertasirovich.it/teaching/2020-2021-tac/lezione09/</guid>
+      <description>Simplessi orientati. Gruppo libero delle $p$-catene. Operatore bordo. Cicli e bordi. Gruppi di omologia simpliciale.
+Note della lezione
+Video della lezione
+Video della lezione (accesso riservato utenti Polimi)   </description>
+    </item>
+    
+    <item>
+      <title>Lezione 10 &gt; esercitazione</title>
+      <link>http://www.robertasirovich.it/teaching/2020-2021-tac/lezione10/</link>
+      <pubDate>Fri, 16 Sep 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.robertasirovich.it/teaching/2020-2021-tac/lezione10/</guid>
+      <description>Esercizi di calcolo dei gruppi di omologia simpliciale.
+Note della lezione
+Video della lezione
+Video della lezione (accesso riservato utenti Polimi)   </description>
+    </item>
+    
+    <item>
+      <title>Lezione 11</title>
+      <link>http://www.robertasirovich.it/teaching/2020-2021-tac/lezione11/</link>
+      <pubDate>Mon, 12 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.robertasirovich.it/teaching/2020-2021-tac/lezione11/</guid>
+      <description>Significato del gruppo di omologia zerodimensionale. Augmentation map e omologia ridotta.
+Note della lezione
+Video della lezione
+Video della lezione (accesso riservato utenti Polimi)   </description>
+    </item>
+    
+    <item>
+      <title>Lezione 12</title>
+      <link>http://www.robertasirovich.it/teaching/2020-2021-tac/lezione12/</link>
+      <pubDate>Fri, 16 Sep 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.robertasirovich.it/teaching/2020-2021-tac/lezione12/</guid>
+      <description>Cono di un complesso simpliciale. Omologia ridotta di un cono. Complessi aciclici e omologia ridotta di un $n$-simplesso.
+Note della lezione
+Video della lezione
+Video della lezione (accesso riservato utenti Polimi)   </description>
+    </item>
+    
+    <item>
+      <title>Lezione 13</title>
+      <link>http://www.robertasirovich.it/teaching/2020-2021-tac/lezione13/</link>
+      <pubDate>Fri, 16 Sep 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.robertasirovich.it/teaching/2020-2021-tac/lezione13/</guid>
+      <description>Omologia ridotta del bordo di un $n$-simplesso. Omologia simpliciale a coefficienti arbitrari. Esempio: il nastro di Möbius (prima parte).
+Note della lezione
+Video della lezione
+Video della lezione (accesso riservato utenti Polimi)   </description>
+    </item>
+    
+    <item>
+      <title>Lezione 14</title>
+      <link>http://www.robertasirovich.it/teaching/2020-2021-tac/lezione14/</link>
+      <pubDate>Mon, 19 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.robertasirovich.it/teaching/2020-2021-tac/lezione14/</guid>
+      <description>Esempio: il nastro di Möbius (seconda parte). Esempio: il piano proiettivo (prima parte).
+Note della lezione
+Video della lezione
+Video della lezione (accesso riservato utenti Polimi)   </description>
+    </item>
+    
+    <item>
+      <title>Lezione 15</title>
+      <link>http://www.robertasirovich.it/teaching/2020-2021-tac/lezione15/</link>
+      <pubDate>Wed, 21 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.robertasirovich.it/teaching/2020-2021-tac/lezione15/</guid>
+      <description>Esempio: il piano proiettivo (seconda parte). Omomorfismi tra gruppi di catene indotti da una mappa simpliciale. Omomorfismi tra gruppi di omologia indotti da una mappa simpliciale.
+Note della lezione
+Video della lezione
+Video della lezione (accesso riservato utenti Polimi)   </description>
+    </item>
+    
+    <item>
+      <title>Lezione 16</title>
+      <link>http://www.robertasirovich.it/teaching/2020-2021-tac/lezione16/</link>
+      <pubDate>Fri, 16 Sep 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.robertasirovich.it/teaching/2020-2021-tac/lezione16/</guid>
+      <description>Omomorfismi indotti tra gruppi di omologia. Omomorfismi indotti dalla mappa identità e dalla composizione di due mappe. Confronto di omomorfismi indotti. Chain homotopy. Mappe simpliciali contigue.
+Note della lezione
+Video della lezione
+Video della lezione (accesso riservato utenti Polimi)   </description>
+    </item>
+    
+    <item>
+      <title>Lezione 17</title>
+      <link>http://www.robertasirovich.it/teaching/2020-2021-tac/lezione17/</link>
+      <pubDate>Mon, 26 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.robertasirovich.it/teaching/2020-2021-tac/lezione17/</guid>
+      <description>Condizione star per funzioni continue tra poliedri. Approssimazione simpliciale di una funzione continua.
+Note della lezione
+Video della lezione
+Video della lezione (accesso riservato utenti Polimi)   </description>
+    </item>
+    
+    <item>
+      <title>Lezione 18</title>
+      <link>http://www.robertasirovich.it/teaching/2020-2021-tac/lezione18/</link>
+      <pubDate>Fri, 16 Sep 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.robertasirovich.it/teaching/2020-2021-tac/lezione18/</guid>
+      <description>Suddivisione di un complesso simpliciale. Approssimazione simpliciale dell&amp;rsquo;identità. Suddivisioni baricentriche. Diametro di un complesso simpliciale. Teorema di approssimazione simpliciale finita.
+Note della lezione
+Video della lezione
+Video della lezione (accesso riservato utenti Polimi)   </description>
+    </item>
+    
+    <item>
+      <title>Lezione 19</title>
+      <link>http://www.robertasirovich.it/teaching/2020-2021-tac/lezione19/</link>
+      <pubDate>Fri, 16 Sep 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.robertasirovich.it/teaching/2020-2021-tac/lezione19/</guid>
+      <description>Operatore di suddivisione baricentrica. Omomorfismo indotto tra i gruppi di omologia da una funzione continua. Invarianza topologica dei gruppi di omologia.
+Note della lezione
+Video della lezione
+Video della lezione (accesso riservato utenti Polimi)   </description>
+    </item>
+    
+    <item>
+      <title>Lezione 20 &gt; esercitazione</title>
+      <link>http://www.robertasirovich.it/teaching/2020-2021-tac/lezione20/</link>
+      <pubDate>Fri, 16 Sep 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.robertasirovich.it/teaching/2020-2021-tac/lezione20/</guid>
+      <description>Esempio di riepilogo su omomorfismi indotti da una funzione continua tra poliedri (prima parte).
+Note della lezione
+Video della lezione
+Video della lezione (accesso riservato utenti Polimi)   </description>
+    </item>
+    
+    <item>
+      <title>Lezione 21</title>
+      <link>http://www.robertasirovich.it/teaching/2020-2021-tac/lezione21/</link>
+      <pubDate>Fri, 16 Sep 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.robertasirovich.it/teaching/2020-2021-tac/lezione21/</guid>
+      <description>Esempio di riepilogo su omomorfismi indotti da una funzione continua tra poliedri (seconda parte). Introduzione all&amp;rsquo;omologia persistente. Insiemi dei sottolivelli di una funzione.
+Note della lezione
+Video della lezione
+Video della lezione (accesso riservato utenti Polimi)   </description>
+    </item>
+    
+    <item>
+      <title>Lezione 22 &gt; esercitazione</title>
+      <link>http://www.robertasirovich.it/teaching/2020-2021-tac/lezione22-ese/</link>
+      <pubDate>Thu, 12 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.robertasirovich.it/teaching/2020-2021-tac/lezione22-ese/</guid>
+      <description>Forma normale di Smith di una matrice a coefficienti interi.
+Note della lezione
+Video della lezione (accesso riservato utenti Polimi)</description>
+    </item>
+    
+    <item>
+      <title>Lezione 23</title>
+      <link>http://www.robertasirovich.it/teaching/2020-2021-tac/lezione23/</link>
+      <pubDate>Fri, 16 Sep 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.robertasirovich.it/teaching/2020-2021-tac/lezione23/</guid>
+      <description>Filtrazione di un complesso simpliciale. Gruppi di omologia persistente. Nascita e morte di una classe di omologia. Indice di persistenza e diagrammi di persistenza.
+Note della lezione
+Video della lezione
+Video della lezione (accesso riservato utenti Polimi)   </description>
+    </item>
+    
+    <item>
+      <title>Lezione 24</title>
+      <link>http://www.robertasirovich.it/teaching/2020-2021-tac/lezione24/</link>
+      <pubDate>Wed, 18 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.robertasirovich.it/teaching/2020-2021-tac/lezione24/</guid>
+      <description>Numeri di Betti dei gruppi di omologia persistente e numero di classi con nascita e morte fissata. Funzioni monotone sui complessi e filtrazione indotte. Lower star filtration.
+Note della lezione
+Video della lezione
+Video della lezione (accesso riservato utenti Polimi)   </description>
+    </item>
+    
+    <item>
+      <title>Lezione 25 &gt; esercitazione</title>
+      <link>http://www.robertasirovich.it/teaching/2020-2021-tac/lezione25-ese/</link>
+      <pubDate>Thu, 19 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.robertasirovich.it/teaching/2020-2021-tac/lezione25-ese/</guid>
+      <description>Calcolo dei gruppi di omologia di toro e bottiglia di Klein.
+Video della lezione (accesso riservato utenti Polimi)</description>
+    </item>
+    
+    <item>
+      <title>Lezione 26</title>
+      <link>http://www.robertasirovich.it/teaching/2020-2021-tac/lezione26/</link>
+      <pubDate>Mon, 23 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.robertasirovich.it/teaching/2020-2021-tac/lezione26/</guid>
+      <description>Persistenza di una classe di omologia in una lower star filtration. Applicazione della lower star filtration allo studio di funzioni reali definite su un intervallo di $\mathbb{R}$. Approssimazione lineare a tratti e approssimazione localmente costante.
+Note della lezione
+Video della lezione
+Video della lezione (accesso riservato utenti Polimi)   </description>
+    </item>
+    
+    <item>
+      <title>Lezione 27</title>
+      <link>http://www.robertasirovich.it/teaching/2020-2021-tac/lezione27/</link>
+      <pubDate>Wed, 25 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.robertasirovich.it/teaching/2020-2021-tac/lezione27/</guid>
+      <description>Complessi e filtrazioni di Cech. Complessi e filtrazioni di Vietoris-Rips.
+Note della lezione
+Video della lezione
+Video della lezione (accesso riservato utenti Polimi)   </description>
+    </item>
+    
+    <item>
+      <title>Lezione 28 &gt; esercitazione</title>
+      <link>http://www.robertasirovich.it/teaching/2020-2021-tac/lezione28-ese/</link>
+      <pubDate>Fri, 16 Sep 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.robertasirovich.it/teaching/2020-2021-tac/lezione28-ese/</guid>
+      <description>Complessi alpha e complessi rips.
+Video della lezione (accesso riservato utenti Polimi)</description>
+    </item>
+    
+    <item>
+      <title>Lezione 29</title>
+      <link>http://www.robertasirovich.it/teaching/2020-2021-tac/lezione29/</link>
+      <pubDate>Fri, 16 Sep 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.robertasirovich.it/teaching/2020-2021-tac/lezione29/</guid>
+      <description>Confronto tra complessi di Cech e complessi di Vietoris-Rips. Rappresentazioni alternative dell&amp;rsquo;omologia persistente: bar code e landscape.
+Note della lezione
+Video della lezione
+Video della lezione (accesso riservato utenti Polimi)   </description>
+    </item>
+    
+    <item>
+      <title>Lezione 30</title>
+      <link>http://www.robertasirovich.it/teaching/2020-2021-tac/lezione30/</link>
+      <pubDate>Fri, 16 Sep 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.robertasirovich.it/teaching/2020-2021-tac/lezione30/</guid>
+      <description>Confronto di filtrazioni indotte da due funzioni monotone. Bottleneck distance tra diagrammi di persistenza. Stabilità della bottleneck distance.
+Note della lezione
+Video della lezione
+Video della lezione (accesso riservato utenti Polimi)   </description>
+    </item>
+    
+    <item>
+      <title>Lezione 31 &gt; esercitazione</title>
+      <link>http://www.robertasirovich.it/teaching/2020-2021-tac/lezione31-ese/</link>
+      <pubDate>Fri, 16 Sep 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.robertasirovich.it/teaching/2020-2021-tac/lezione31-ese/</guid>
+      <description>Studio di nuvole di punti e riconoscimento di forme.
+Video della lezione (accesso riservato utenti Polimi)</description>
+    </item>
+    
+    <item>
+      <title>Lezione 32 &gt;&gt; laboratorio</title>
+      <link>http://www.robertasirovich.it/teaching/2020-2021-tac/lezione32-lab/</link>
+      <pubDate>Fri, 16 Sep 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.robertasirovich.it/teaching/2020-2021-tac/lezione32-lab/</guid>
+      <description>Calcolo e visualizzazione di diagrammi di persistenza con Python.
+Video della lezione (accesso riservato utenti Polimi)</description>
+    </item>
+    
+    <item>
+      <title>Lezione 33 &gt;&gt; laboratorio</title>
+      <link>http://www.robertasirovich.it/teaching/2020-2021-tac/lezione33-lab/</link>
+      <pubDate>Thu, 10 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.robertasirovich.it/teaching/2020-2021-tac/lezione33-lab/</guid>
+      <description>Distanze tra diagrammi di persistenza. Approssimazione dello spazio metrico dei diagrammi di persistenza con spazi euclidei.
+Video della lezione (accesso riservato utenti Polimi)</description>
+    </item>
+    
+    <item>
+      <title>Lezione 34</title>
+      <link>http://www.robertasirovich.it/teaching/2020-2021-tac/lezione34/</link>
+      <pubDate>Mon, 14 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.robertasirovich.it/teaching/2020-2021-tac/lezione34/</guid>
+      <description>Esempi di applicazioni dell&amp;rsquo;omologia persistente: image processing e signal processing.
+Note della lezione
+Video della lezione
+Video della lezione (accesso riservato utenti Polimi)   </description>
+    </item>
+    
+    <item>
+      <title>Lezione 35 &gt;&gt; laboratorio</title>
+      <link>http://www.robertasirovich.it/teaching/2020-2021-tac/lezione35-lab/</link>
+      <pubDate>Wed, 16 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.robertasirovich.it/teaching/2020-2021-tac/lezione35-lab/</guid>
+      <description>Persistence images. Distanza di Wasserstein. Lower star filtrations.
+Video della lezione (accesso riservato utenti Polimi)</description>
+    </item>
+    
+    <item>
+      <title>Lezione 36 &gt;&gt; laboratorio</title>
+      <link>http://www.robertasirovich.it/teaching/2020-2021-tac/lezione36-lab/</link>
+      <pubDate>Thu, 17 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.robertasirovich.it/teaching/2020-2021-tac/lezione36-lab/</guid>
+      <description>Lower star filtrations. Esempi di functional data analysis.
+Video della lezione (accesso riservato utenti Polimi)</description>
+    </item>
+    
+    <item>
+      <title>Lezione 37 &gt;&gt; laboratorio</title>
+      <link>http://www.robertasirovich.it/teaching/2020-2021-tac/lezione37-lab/</link>
+      <pubDate>Mon, 21 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.robertasirovich.it/teaching/2020-2021-tac/lezione37-lab/</guid>
+      <description>Localizzazione di minimi e massimi di una funzione. Applicazioni allo studio di immagini.
+Video della lezione (accesso riservato utenti Polimi)</description>
+    </item>
+    
+    <item>
+      <title>Lezione 38 &gt;&gt; laboratorio</title>
+      <link>http://www.robertasirovich.it/teaching/2020-2021-tac/lezione38-lab/</link>
+      <pubDate>Wed, 23 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.robertasirovich.it/teaching/2020-2021-tac/lezione38-lab/</guid>
+      <description>Sliding window embedding.
+Video della lezione (accesso riservato utenti Polimi)</description>
+    </item>
+    
+  </channel>
+</rss>

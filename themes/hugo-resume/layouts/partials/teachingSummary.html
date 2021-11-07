@@ -1,0 +1,19 @@
+
+<div class="resume-item d-flex flex-column flex-md-row mb-3">
+  <div class="publication-content mr-auto">
+    <h4 class="mb-0"> <!--{{ .Params.pubtype }} - --> <span class="aa">[{{ .Params.aa }} {{ .Params.semester }}]</span> <a style="font-weight: 500" href="{{ .Permalink }}">{{ .Params.longtitle }}</a>{{ with .Params.enTitle }} <span style="font-weight: 500; font-size: 90%; color: #495057;">({{ . }})</span>{{end}}, {{ .Params.university}},{{ with .Params.school }} <em>{{ . }}</em>,{{ end }}
+    {{ if eq .Params.degree "bachelor"}}
+    	Bachelor of Science in 
+    {{ else if eq .Params.degree "master" }}
+    	Master of Science in 
+   	{{ end }}
+   	<span style="font-weight: 450;"><em>{{ .Params.program }}</em></span>.
+    </h4>
+   <!--  <div>{{ .Params.description | safeHTML }}</div>
+    <p>{{ partial "techtags" . }}</p> -->
+  </div>
+  <!-- <div class="resume-date text-md-right">
+    <span class="text-primary">{{ .Params.date | dateFormat "January 2006" }}</span>
+    <img src="{{ .Params.image }}" style="max-width:250px;padding:5px;"/>
+  </div> -->
+</div>

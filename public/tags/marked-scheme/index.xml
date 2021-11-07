@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>marked scheme on Roberta&#39;s Personal Web Page</title>
+    <link>http://www.robertasirovich.it/tags/marked-scheme/</link>
+    <description>Recent content in marked scheme on Roberta&#39;s Personal Web Page</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 01 Jan 2016 00:00:00 +0000</lastBuildDate><atom:link href="http://www.robertasirovich.it/tags/marked-scheme/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>A Borel open cover of the Hilbert scheme</title>
+      <link>http://www.robertasirovich.it/publications/blr/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.robertasirovich.it/publications/blr/</guid>
+      <description>Abstract. Let $p(t)$ be an admissible Hilbert polynomial in $\mathbb{P}^n$ of degree $d$. The Hilbert scheme $\mathbf{Hilb}_{p(t)}(\mathbb{P}^n)$ can be realized as a closed subscheme of a suitable Grassmannian $\mathbf{Gr}$, hence it could be globally defined by homogeneous equations in the Plücker coordinates of $\mathbf{Gr}$ and covered by open subsets given by the non-vanishing of a Plücker coordinate, each embedded as a closed subscheme of the affine space $\mathbb{A}^D$, $D=\dim(\mathbf{Gr})$. However, the number $E$ of Plücker coordinates is so large that effective computations in this setting are practically impossible.</description>
+    </item>
+    
+    <item>
+      <title>MarkedSchemes.m2 - A M2 package for marked schemes and Groebner strata</title>
+      <link>http://www.robertasirovich.it/publications/lm2/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.robertasirovich.it/publications/lm2/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

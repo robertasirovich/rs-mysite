@@ -1,0 +1,23 @@
+
+<div class="resume-item d-flex flex-column flex-md-row mb-2">
+  <div class="my-auto">
+    <span class="mb-0"> 
+      {{ if .Params.active }}
+        <a style="font-weight: 500" href="{{ .Permalink }}"><strong> {{ .Params.title }} </strong></a> 
+      {{ else }}
+        <strong> {{ .Params.title }} </strong>
+      {{ end }}
+      <span style="font-weight: 400; font-size: 90%;">({{ .Params.data }}{{ with .Params.ora }}, {{ . }}{{ end }}{{ with .Params.aula }}, aula {{ . | safeHTML }}{{ end }})
+      </span>
+    </span>
+    {{ with .Params.argomenti }}
+      <span>{{ . }}</span>
+    {{ end }}
+   <!--  <div>{{ .Params.description | safeHTML }}</div>
+    <p>{{ partial "techtags" . }}</p> -->
+  </div>
+  <!-- <div class="resume-date text-md-right">
+    <span class="text-primary">{{ .Params.date | dateFormat "January 2006" }}</span>
+    <img src="{{ .Params.image }}" style="max-width:250px;padding:5px;"/>
+  </div> -->
+</div>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>polynomial reduction relation on Roberta&#39;s Personal Web Page</title>
+    <link>http://www.robertasirovich.it/tags/polynomial-reduction-relation/</link>
+    <description>Recent content in polynomial reduction relation on Roberta&#39;s Personal Web Page</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 01 Jan 2016 00:00:00 +0000</lastBuildDate><atom:link href="http://www.robertasirovich.it/tags/polynomial-reduction-relation/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Upgraded methods for the effective computation of marked schemes on a strongly stable ideal</title>
+      <link>http://www.robertasirovich.it/publications/bclr/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.robertasirovich.it/publications/bclr/</guid>
+      <description>Abstract. Let $J \subset S=K[x_0,\ldots,x_n]$ be a monomial strongly stable ideal. The collection $\mathbf{Mf}(J)$ of the homogeneous polynomial ideals $I$, such that the monomials outside $J$ form a $K$-vector basis of $S/I$, is called a $J$-marked family. It can be endowed with a structure of affine scheme, called a $J$-marked scheme. For special ideals $J$, $J$-marked schemes provide an open cover of the Hilbert scheme $\mathbf{Hilb}_{p(t)}(\mathbb{P}^n)$, where $p(t)$ is the Hilbert polynomial of $S/J$.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,67 @@
+{{ define "main" }}
+{{ partial "breadcrumbs" . }}
+{{ if .Params.course }}
+  <section class="resume-section p-3 p-lg-5 d-flex d-column content">
+  <div class="my-auto">
+  	<h3 class="mt-0"> A.Y. {{ .Params.aa }} - {{ .Params.semester }} semester </h3>
+    <h2 style="font-size: 2.5rem" class="mb-0 text-primary">{{ .Params.longTitle }} {{ with .Params.enTitle }}<span style="font-weight: 500; font-size: 75%; color: #495057;">({{ . }})</span> {{ end }} </h2>
+    <h3 class="mt-2 mb-0"> 
+      {{ .Params.university}}{{ with .Params.school }} - <em>{{ . }}</em>{{ end }}
+    </h3>
+    <h3 class="mt-1 mb-4">
+      {{ if eq .Params.degree "bachelor"}}
+         Bachelor of Science in 
+      {{ else if eq .Params.degree "master" }}
+         Master of Science in 
+      {{ end }}
+    <span style="font-weight: 550;"><em>{{ .Params.program }}</em></span>
+    </h3>
+    {{ with .Params.instructor }}
+    <p class="mb-2 mt-2"> <strong>Instructor:</strong> {{ . }}</p>
+    {{ end }}
+    {{ with .Params.assistant }}
+    <p class="mb-2 mt-2"> <strong>Teaching assistant:</strong> {{ . }}</p>
+    {{ end }}
+    {{ if .Params.showWeb }}
+    <p class="mb-2 mt-2"><a href="{{ .Params.web }}" target="_blank"><strong>Web page:</strong></a> syllabus, schedule, ...</p>
+    {{ end }}
+    {{ if .Params.showMoodle }}
+    <p class="mb-4"><a href="{{ .Params.moodle }}" target="_blank"><strong>Moodle page:</strong></a> announcements, lesson slides, ancillary material, ...</p>
+    {{ end }}
+    <p>
+    	{{ .Content }}
+	</p>
+  </div>
+  </section>
+  {{ else }}
+  <section class="resume-section p-3 p-lg-5 d-flex d-column content">
+  <div class="my-auto" style="min-width: 100%">
+    <h2 style="font-size: 2.5rem" class="mb-0 text-primary">
+      {{ .Title }}
+      &nbsp;
+      <span style="font-weight: 500; font-size: 80%; color: #495057;">
+        {{ .Params.data }} 
+        {{ with .Params.ora }} - {{ . }} {{ end }} 
+        {{ with .Params.aula }} - aula {{ . | safeHTML}} {{ end }}
+      </span>
+    </h2>
+    <h3 class="mt-2 mb-0"> 
+      
+    </h3>
+    {{ with .Params.argomenti}}
+    <p class="mb-6 mt-2" style="font-size: 125%;"> 
+    <strong>Argomenti.</strong>
+    {{ . }}
+    </p>
+    {{ end }}
+    <div class="mt-6 mb-6" style="width: auto; font-size: 125%; padding-top: 25px;">
+      {{ .Content }}
+    </div>
+    <div class="mt-6" style="text-align: center; font-size: 100%; padding-top: 25px;">
+      Tutti i contenuti sono rilasciati con licenza Creative Commons 4.0</br>  
+      <img src="/img/CC-by-nc-sa.jpg" alt="CC-by-nc-sa" style="height: 50px; margin-top: 12px">
+    </div>
+  </div>
+  </section>
+  {{ end }}
+{{ end }}

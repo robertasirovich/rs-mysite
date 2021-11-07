@@ -1,0 +1,91 @@
+baseURL = "http://www.robertasirovich.it/"
+languageCode = "en-us"
+title = "Roberta's Personal Web Page"
+theme = "hugo-resume"
+
+[params]
+    firstName = "Roberta"
+    lastName = "Sirovich"
+    streetAddress = "Via Carlo Alberto 10"
+    postalCodeAddress = "IT-10123"
+    address = "Torino"
+    phone = "+39 011 670 2937"
+    contactNote = ""
+    profileImage = "img/fotoProfilo.png"
+    email = "roberta [dot] sirovich [at] unito [dot] it"
+    description = "Assistant Professor (ricercatore)"
+    department = "Dipartimento di Matematica \"G. Peano\""
+    university = "Università degli Studi di Torino"
+    # what sections
+    showSkills = false
+    showResearch = true
+    showSoftware = false
+    showPublications = true
+    showExperience = false
+    showEducation = true
+    showTeaching = true
+    showBlog = true
+    showQr = false
+
+[[params.handles]]
+    name = "Unito"
+    link = "https://www.dipmatematica.unito.it/persone/roberta.sirovich"
+    show = true
+    icon = "icon/polimi.png"
+
+[[params.handles]]
+    name = "MathSciNet"
+    link = "https://mathscinet.ams.org/mathscinet/MRAuthorID/726779"
+    show = true
+    icon = "icon/mathscinet.png"
+
+[[params.handles]]
+    name = "arXiv"
+    link = "https://arxiv.org/search/?searchtype=author&query=Sirovich%2C+R"
+    show = false
+    icon = "icon/arxiv.png"
+
+[[params.handles]]
+    name = "Scopus"
+    link = "https://www.scopus.com/authid/detail.uri?authorId=6508313979"
+    show = true
+    icon = "icon/scopus.png"
+
+[[params.handles]]
+    name = "Web of Science"
+    link = "https://publons.com/researcher/2801236/roberta-sirovich/"
+    show = true
+    icon = "icon/wos.png"
+
+[[params.handles]]
+    name = "Google Scholar"
+    link = "https://scholar.google.com/citations?user=YkeWUuwAAAAJ"
+    show = true
+    icon = "icon/scholar.png"
+
+[[params.handles]]
+    name = "Orcid"
+    link = "https://orcid.org/0000-0002-3189-8269"
+    show = false
+    icon = "icon/orcid.png"
+
+[[params.handles]]
+    name = "Research Gate"
+    link = "https://www.researchgate.net/profile/Roberta-Sirovich"
+    show = true
+    icon = "icon/researchgate.png"
+
+
+[privacy]
+  [privacy.disqus]
+    disable = true
+  [privacy.googleAnalytics]
+    disable = true
+  [privacy.instagram]
+    disable = true
+  [privacy.twitter]
+    disable = true
+  [privacy.vimeo]
+    disable = true
+  [privacy.youtube]
+    disable = true

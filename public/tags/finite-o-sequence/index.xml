@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>finite O-sequence on Roberta&#39;s Personal Web Page</title>
+    <link>http://www.robertasirovich.it/tags/finite-o-sequence/</link>
+    <description>Recent content in finite O-sequence on Roberta&#39;s Personal Web Page</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 01 Jan 2016 00:00:00 +0000</lastBuildDate><atom:link href="http://www.robertasirovich.it/tags/finite-o-sequence/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>A combinatorial description of finite O-sequences and aCM genera</title>
+      <link>http://www.robertasirovich.it/publications/clm/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.robertasirovich.it/publications/clm/</guid>
+      <description>Abstract. The goal of this paper is to explicitly detect all the arithmetic genera of arithmetically Cohen–Macaulay projective curves with a given degree $d$. It is well-known that the arithmetic genus $g$ of a curve $C$ can be easily deduced from the $h$-vector of the curve; in the case where $C$ is arithmetically Cohen–Macaulay of degree $d$, $g$ must belong to the range of integers $\left\{0,\ldots,\binom{d-1}{2}\right\}$. We develop an algorithmic procedure that allows one to avoid constructing most of the possible $h$-vectors of $C$.</description>
+    </item>
+    
+  </channel>
+</rss>

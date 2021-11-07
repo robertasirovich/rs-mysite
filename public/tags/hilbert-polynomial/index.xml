@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hilbert polynomial on Roberta&#39;s Personal Web Page</title>
+    <link>http://www.robertasirovich.it/tags/hilbert-polynomial/</link>
+    <description>Recent content in Hilbert polynomial on Roberta&#39;s Personal Web Page</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 02 Oct 2019 00:00:00 +0000</lastBuildDate><atom:link href="http://www.robertasirovich.it/tags/hilbert-polynomial/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>An efficient implementation of the algorithm computing the Borel-fixed points of a Hilbert scheme</title>
+      <link>http://www.robertasirovich.it/publications/issac/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.robertasirovich.it/publications/issac/</guid>
+      <description>Abstract. Borel-fixed ideals play a key role in the study of Hilbert schemes. Indeed each component and each intersection of components of a Hilbert scheme contains at least one Borel-fixed point, i.e. a point corresponding to a subscheme defined by a Borel-fixed ideal. Moreover Borel-fixed ideals have good combinatorial properties, which make them very interesting in an algorithmic perspective. In this paper, we propose an implementation of the algorithm computing all the saturated Borel-fixed ideals with number of variables and Hilbert polynomial assigned, introduced from a theoretical point of view in the paper Cioffi-Lella-Marinari-Roggero, Segment ideals and Hilbert schemes of points, Discrete Mathematics 311(20), 2011.</description>
+    </item>
+    
+    <item>
+      <title>Minimal Castelnuovo-Mumford regularity for a given Hilbert polynomial</title>
+      <link>http://www.robertasirovich.it/publications/clmr2/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.robertasirovich.it/publications/clmr2/</guid>
+      <description>Abstract. Let $K$ be an algebraically closed field of null characteristic and $p(z)$ a Hilbert polynomial. We look for the minimal Castelnuovo-Mumford regularity $m_{p(z)}$ of closed subschemes of projective spaces over $K$ with Hilbert polynomial $p(z)$. Experimental evidences led us to consider the idea that $m_{p(z)}$ could be achieved by schemes having a suitable minimal Hilbert function. We give a constructive proof of this fact. Moreover, we are able to compute the minimal Castelnuovo-Mumford regularity $m_{p(z)}^{\varrho}$ of schemes with Hilbert polynomial $p(z)$ and given regularity $\varrho$ of the Hilbert function, and also the minimal Castelnuovo-Mumford regularity $m_u$ of schemes with Hilbert function $u$.</description>
+    </item>
+    
+    <item>
+      <title>Strongly stable ideals and Hilbert polynomials</title>
+      <link>http://www.robertasirovich.it/publications/al/</link>
+      <pubDate>Wed, 02 Oct 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.robertasirovich.it/publications/al/</guid>
+      <description>Abstract. The StronglyStableIdeals.m2 package for Macaulay2 provides a method to compute all saturated strongly stable ideals in a given polynomial ring with a fixed Hilbert polynomial. A description of the main method and auxiliary tools is given.
+ Ancillary Material  Macaulay2 package StronglyStableIdeals.m2.  </description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,94 @@
+{{ define "main" }}
+{{ partial "breadcrumbs" . }}
+<section class="resume-section p-3 p-lg-5 d-flex d-column content">
+  <div class="my-auto">
+  	<h3 class="mt-0"> {{ .Params.author }} </h3>
+    <h2 style="font-size: 2.5rem" class="mb-0 text-primary">{{ .Params.title | markdownify }}</h2>
+    {{ if eq .Params.pubtype "published" }}
+      <h3 class="mt-2 mb-4"> <em>{{ .Params.journal }}</em>, <strong>{{ .Params.volume }}</strong>{{ with .Params.number }}({{ . }}){{ end }}:{{ .Params.pages }}, {{ .Params.year }}.  
+    {{ else if eq .Params.pubtype "accepted" }}
+      <h3 class="mt-2 mb-4"> Accepted for publication on <em>{{ .Params.journal }}</em>. 
+    {{ else if eq .Params.pubtype "submitted" }}
+      <h3 class="mt-2 mb-4"> Under review. 
+    {{ else if eq .Params.pubtype "in preparation" }}
+      <h3 class="mt-2 mb-4"> In preparation.  
+    {{ else if eq .Params.pubtype "proceeding" }}
+      <h3 class="mt-2 mb-4"> <em>{{ .Params.journal }}</em>, {{ .Params.year }}.  
+    {{ end }} 
+      <ul class="list-inline mb-0 list-social-icons" style="float: right;">
+            {{ if .Params.showDoi}}
+                <li class="list-inline-item">
+                  <a href="{{ printf "%s%s" "https://doi.org/" .Params.doi}}" data-toggle="tooltip" title="{{ printf "%s:%s" "doi" .Params.doi }}" data-offset="0 5">
+                    <div id="circlePub">                   
+                        <img src="{{ "icon/doi.png" | absURL }}" alt="">
+                    </div>
+                  </a>
+                </li>
+            {{ end }}
+            {{ if .Params.showArxiv}}
+                <li class="list-inline-item">
+                  <a href="{{ printf "%s%s" "https://arxiv.org/abs/" .Params.arxiv}}" data-toggle="tooltip" title="{{printf "%s%s" "arXiv:"  .Params.arxiv }}" data-offset="0 5">
+                    <div id="circlePub">                   
+                        <img src="{{ "icon/arxivBig.png" | absURL }}" alt="">
+                    </div>
+                  </a>
+                </li>
+            {{ end }}
+            {{ if .Params.showMR}}
+                <li class="list-inline-item">
+                  <a href="{{ printf "%s%s" "https://mathscinet.ams.org/mathscinet-getitem?mr=" .Params.mr}}" data-toggle="tooltip" title="{{ .Params.mr }}" data-offset="0 5">
+                    <div id="circlePub">                   
+                        <img src="{{ "icon/mr.png" | absURL }}" alt="">
+                    </div>
+                  </a>
+                </li>
+            {{ end }}
+            {{ if .Params.showZBL}}
+                <li class="list-inline-item">
+                  <a href="{{ printf "%s%s" "https://zbmath.org/?q=an%3A" .Params.zbl}}" data-toggle="tooltip" title="{{ printf "Zbl %s" .Params.zbl }}" data-offset="0 5">
+                    <div id="circlePub">                   
+                        <img src="{{ "icon/zbl.png" | absURL }}" alt="">
+                    </div>
+                  </a>
+                </li>
+            {{ end }}
+            {{ if .Params.showScopus}}
+                <li class="list-inline-item">
+                  <a href="{{ printf "%s%s%s" "https://www.scopus.com/record/display.uri?eid=" .Params.scopus "&origin=inward&" }}" data-toggle="tooltip" title="{{ .Params.scopus }}" data-offset="0 5">
+                    <div id="circlePub">                   
+                        <img src="{{ "icon/scopusBig.png" | absURL }}" alt="">
+                    </div>
+                  </a>
+                </li>
+            {{ end }}
+            {{ if .Params.showWOS}}
+                <li class="list-inline-item">
+                  <a href="{{ printf "%s%s" "http://apps.webofknowledge.com/InboundService.do?mode=FullRecord&product=WOS&action=retrieve&UT=WOS%3A" .Params.wos}}" data-toggle="tooltip" title="{{ printf "WOS:%s"  .Params.wos }}" data-offset="0 5">
+                    <div id="circlePub">                   
+                        <img src="{{ "icon/wosBig.png" | absURL }}" alt="">
+                    </div>
+                  </a>
+                </li>
+            {{ end }}
+            {{ if .Params.showBibtex}}
+                <li class="list-inline-item">
+                  <a href="{{ printf "publications/bibtex/%s.bib"  .File.BaseFileName | absURL }} " data-toggle="tooltip" title="{{ printf "%s.bib"  .File.BaseFileName }}" data-offset="0 5">
+                    <div id="circlePub">                   
+                        <img src="{{ "icon/bibtex.png" | absURL }}" alt="">
+                    </div>
+                  </a>
+                </li>
+            {{ end }}
+        </ul>
+    </h3>
+    <p class="mt-3">
+    	{{ partial "techtags" . }}
+    </p>
+    <div style="text-align:justify;">
+    <p >
+    	{{ .Content }}
+	  </p>
+    </div>
+  </div>
+</section>
+{{ end }}

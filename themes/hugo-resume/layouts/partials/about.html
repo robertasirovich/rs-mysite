@@ -1,0 +1,40 @@
+
+
+      <section class="resume-section p-3 p-lg-5 d-flex d-column" id="about">
+        <div class="my-auto">
+          <div class="resume-item d-flex flex-column flex-md-row">
+            <div class="mr-auto">
+
+              <h1 class="mb-0">{{ .Site.Params.firstName }}
+                <span class="text-primary">{{ .Site.Params.lastName }}</span>
+              </h1>
+              <h3 class="mt-0 mb-5">
+                {{ .Site.Params.description}}
+              </h3>
+              <p class="address mb-5">{{ .Site.Params.department }} </br> {{ .Site.Params.university}} </br> {{ .Site.Params.streetAddress}} </br> {{ .Site.Params.postalCodeAddress }} {{ .Site.Params.address }}  
+              </p>
+              <p class="address mb-5">
+              {{ .Site.Params.phone }} </br>
+                <a href="mailto:{{ substr .Site.Params.email 0 5}}-remove-{{ substr .Site.Params.email 5 }}">{{ substr .Site.Params.email 0 5}}<span style="display:none">-remove-</span>{{ substr .Site.Params.email 5 }}</a>
+              </p>
+
+            </div>
+        </div>
+
+       <div>
+          <ul class="list-inline list-social-icons mb-0">
+            {{ range .Site.Params.handles }}
+              {{ if .show }}
+                <li class="list-inline-item">
+                  <a href="{{ .link }}" target="_blank" data-toggle="tooltip" title="{{ .name }}" data-offset="0 5">
+                    <div id="circle">                  	
+                    		<img src="{{ .icon | absURL }}" alt="">
+                    </div>
+                  </a>
+                </li>
+               {{ end }}  
+            {{ end }}
+          </ul>
+        </div>
+      </div>
+    </section>

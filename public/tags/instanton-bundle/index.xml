@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>instanton bundle on Roberta&#39;s Personal Web Page</title>
+    <link>http://www.robertasirovich.it/tags/instanton-bundle/</link>
+    <description>Recent content in instanton bundle on Roberta&#39;s Personal Web Page</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 02 Oct 2019 00:00:00 +0000</lastBuildDate><atom:link href="http://www.robertasirovich.it/tags/instanton-bundle/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Truncated modules and linear presentations of vector bundles</title>
+      <link>http://www.robertasirovich.it/publications/bfl/</link>
+      <pubDate>Wed, 02 Oct 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.robertasirovich.it/publications/bfl/</guid>
+      <description>Abstract. We give a new method to construct linear spaces of matrices of constant rank, based on truncated graded cohomology modules of certain vector bundles as well as on the existence of graded Artinian modules with pure resolutions. Our method allows one to produce several new examples, and provides an alternative point of view on the existing ones.
+ Ancillary Material  Macaulay2 package ConstantRankMatrices.m2 for computing matrices of constant rank.</description>
+    </item>
+    
+  </channel>
+</rss>
