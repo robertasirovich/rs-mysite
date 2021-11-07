@@ -1,0 +1,12 @@
+---
+title: May be Some Day
+author: r
+date: '2021-11-07'
+slug: []
+categories: []
+tags: []
+featured: true
+---
+
+... as the title says
+
